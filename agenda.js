@@ -8,9 +8,9 @@ const agenda = {
   },
 
   "2026-05-06": {
-    eventos: [],
+    eventos: ["Aula prática de EF!", "Futsal Masculino 2° Fase no ginásio (13h50 as 15h30)", "Futsal Feminino 1° Fase no ginásio (13h50 as 15h30)"],
     trabalhos: [],
-    atividades: ["Matemática - lista"]
+    atividades: ["Matemática - lista", "Filosofia - Humanas, páginas 66 a 68"]
   },
 
   "2026-05-07": {
@@ -38,7 +38,25 @@ const agenda = {
   },
 
   "2026-05-13": {
-    eventos: ["Aniversário de Elia!"],
+    eventos: ["Aniversário de Elia!", "2° encontro do letramento racial"],
+    trabalhos: [],
+    atividades: []
+  },
+
+  "2026-05-16": {
+    eventos: ["Dia da família!"],
+    trabalhos: [],
+    atividades: []
+  },
+
+  "2026-05-28": {
+    eventos: ["AVALIA SESI I - Linguagens e Naturezas"],
+    trabalhos: [],
+    atividades: []
+  },
+
+  "2026-05-29": {
+    eventos: ["AVALIA SESI I - Humanas e Exatas"],
     trabalhos: [],
     atividades: []
   }
