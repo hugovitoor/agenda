@@ -1,0 +1,125 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8">
+  <title>Agenda 2ºB</title>
+  <link href="https://fonts.googleapis.com/css2?family=Hammersmith+One&display=swap" rel="stylesheet">
+  <link href="https://fonts.googleapis.com/css2?family=Hammersmith+One&family=Poppins:wght@300;400;500&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+  <h1>Agenda Escolar 2ºB</h1>
+  <p class="descricao">
+  Site com o quadro de horários, atividades, eventos e trabalhos da turma, além de acesso direto ao nosso Instagram, Drive e formulário.  
+  <br>
+  <strong>Do 2ºB, para o 2ºB.</strong>
+</p>
+
+<div class="card-aviso">
+  <h4>Avisos do dia! (4.5)</h4>
+  <ul>
+    <li>Entrega de trabalho de Física</li>
+    <li>Prova de Matemática</li>
+    <li>Reunião do grupo</li>
+  </ul>
+</div>
+
+  <div class="topo">
+  <button onclick="mesAnterior()"><</button>
+  <h2 id="mesAno"></h2>
+  <button onclick="proximoMes()">></button>
+</div>
+
+<div class="dias-semana">
+  <div>Dom</div>
+  <div>Seg</div>
+  <div>Ter</div>
+  <div>Qua</div>
+  <div>Qui</div>
+  <div>Sex</div>
+  <div>Sáb</div>
+</div>
+
+<div id="calendario" class="calendario"></div>
+
+  <div class="info">
+  <h2 id="dataSelecionada">Selecione um dia</h2>
+
+  <div class="card-section eventos">
+    <h3> Eventos</h3>
+    <div id="eventos"></div>
+  </div>
+
+  <div class="card-section trabalhos">
+    <h3> Trabalhos</h3>
+    <div id="trabalhos"></div>
+  </div>
+
+  <div class="card-section atividades">
+    <h3> Atividades</h3>
+    <div id="atividades"></div>
+  </div>
+</div>
+
+<div class="horarios">
+  <h2>Quadro de Horários</h2>
+  <img src="horarios.jpg" alt="Quadro de horários da turma">
+</div>
+
+<div class="extras">
+
+  <!-- DRIVE -->
+  <a href="https://drive.google.com/drive/folders/1xXl3eNrXSfGGziVqhJWi36K-Cc55Wj_b?usp=drive_link" target="_blank" class="extra-card">
+    <h3>ACESSE TAMBÉM NOSSO DRIVE COM TUDOOO</h3>
+
+    <div class="conteudo-card">
+      <img src="drive.png" alt="Drive">
+
+      <div class="itens">
+        <span>ROTEIROS</span>
+        <span>PDF'S</span>
+        <span>SLIDES</span>
+      </div>
+    </div>
+  </a>
+
+  <!-- INSTAGRAM -->
+  <a href="https://instagram.com" target="_blank" class="extra-card">
+    <h3>NOS SIGA EM NOSSO INSTAGRAM!</h3>
+
+    <div class="conteudo-card">
+      <img src="instagram.png" alt="Instagram">
+      <p>@ EM BREVE!</p>
+    </div>
+  </a>
+
+</div>
+
+<!-- FORM -->
+<a href="https://forms.gle/avtcCYZZZXfgaHB76" target="_blank" class="formulario">
+  <h2>SUGESTÃO, IDEIA, DENÚNCIA, DÚVIDA?</h2>
+
+  <div class="form-card">
+    <p>
+      CONTATE A LIDERANÇA/MARKETING PELO WHATSAPP
+      OU ACESSE ESSE FORMULÁRIO!
+    </p>
+
+    <img src="form.png" alt="Formulário">
+  </div>
+</a>
+
+<div class="decoracoes">
+  <img src="alga.png" class="icone alga">
+  <img src="bolha.png" class="icone bolha">
+  <img src="concha.png" class="icone concha">
+  <img src="martelo.png" class="icone martelo">
+  <img src="tubarao.png" class="icone tubarao">
+  <img src="estrela.png" class="icone estrela">
+</div>
+
+    <script src="agenda.js"></script>
+    <script src="script.js"></script>
+</body>
+</html>
