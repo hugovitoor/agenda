@@ -10,7 +10,7 @@ const agenda = {
   "2026-05-06": {
     eventos: ["Aula prática de EF!", "Futsal Masculino 2° Fase no ginásio (13h50 as 15h30)", "Futsal Feminino 1° Fase no ginásio (13h50 as 15h30)"],
     trabalhos: [],
-    atividades: ["Matemática - lista", "Filosofia - Humanas, páginas 66 a 68"]
+    atividades: ["Filosofia - Humanas, páginas 66 a 68"]
   },
 
   "2026-05-07": {
@@ -22,7 +22,7 @@ const agenda = {
   "2026-05-08": {
     eventos: ["Aniversário de Eduardo!"],
     trabalhos: [],
-    atividades: ["LP - Revisar 'Frase, oração e período'"]
+    atividades: ["LP - Revisar 'Frase, oração e período'", "Matemática - lista"]
   },
 
   "2026-05-11": {
