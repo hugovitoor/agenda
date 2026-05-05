@@ -135,17 +135,17 @@ function mostrarInfo(data) {
   document.getElementById("eventos").innerHTML =
     info && info.eventos.length
       ? info.eventos.map(e => `• ${e}`).join("<br>")
-      : "Nenhum";
+      : "Nenhum evento para esse dia ;(";
 
   document.getElementById("trabalhos").innerHTML =
     info && info.trabalhos.length
       ? info.trabalhos.map(t => `• ${t}`).join("<br>")
-      : "Nenhum";
+      : "Nenhum trabalho para esse dia :D";
 
   document.getElementById("atividades").innerHTML =
     info && info.atividades.length
       ? info.atividades.map(a => `• ${a}`).join("<br>")
-      : "Nenhuma";
+      : "Nenhuma atividade para esse dia :)";
 }
 
 gerarCalendario();

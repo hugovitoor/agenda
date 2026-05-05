@@ -1,13 +1,10 @@
 const agenda = {
-  "2026-05-13": {
-    eventos: ["Aniversário"],
-    trabalhos: ["Teste"],
-    atividades: ["LP"]
-  },
 
-  "2026-05-20": {
+  //ANO - MES - DIA
+  "2026-05-05": {
     eventos: [],
-    trabalhos: ["Matemática"],
-    atividades: ["História"]
+    trabalhos: ["Apresentação de CN", "Parcial do Slide de PV"],
+    atividades: ["Matemática - Exatas, página 124", "LP - Lista de 'Na minha Pele'"]
   }
+
 };
