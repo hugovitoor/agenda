@@ -418,7 +418,7 @@ body {
 }
 
 .dia.selecionado {
-  background: #d0d0d0 !important;
-  color: #000;
+  background: #33638b !important;
+  color: white;
   border-radius: 10px;
 }
