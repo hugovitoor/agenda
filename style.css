@@ -411,3 +411,14 @@ body {
     width: 30px !important;
   }
 }
+
+.dia-apagado {
+  background: #e6f3fa;
+  color: #89acc2;
+}
+
+.dia.selecionado {
+  background: #d0d0d0 !important;
+  color: #000;
+  border-radius: 10px;
+}

@@ -1,5 +1,28 @@
 const calendario = document.getElementById("calendario");
 const mesAno = document.getElementById("mesAno");
+const diasBloqueados = [
+  "2026-05-01",
+  "2026-06-07",
+  "2026-06-19",
+  "2026-06-20",
+  "2026-06-21",
+  "2026-06-22",
+  "2026-06-23",
+  "2026-06-24",
+  "2026-06-25",
+  "2026-06-26",
+  "2026-06-27",
+  "2026-06-28",
+  "2026-06-29",
+  "2026-06-30",
+  "2026-07-01",
+  "2026-07-02",
+  "2026-08-22",
+  "2026-08-29",
+  "2026-10-12",
+  "2026-10-15",
+  "2026-11-07",
+];
 
 const mesMin = 4;  // Maio
 const mesMax = 10; // Novembro
@@ -43,13 +66,31 @@ function gerarCalendario() {
 
     const info = agenda[dataFormatada];
 
+    if (diasBloqueados.includes(dataFormatada)) {
+  dia.classList.add("dia-apagado");
+}
+
+    // 🟤 fim de semana sem nada
+const diaSemana = new Date(ano, mes, i).getDay();
+
+if (
+  (diaSemana === 0 || diaSemana === 6) && // domingo ou sábado
+  (!info || (
+    info.eventos.length === 0 &&
+    info.trabalhos.length === 0 &&
+    info.atividades.length === 0
+  ))
+) {
+  dia.classList.add("dia-apagado");
+}
+
     // 🔴 hoje
     if (
       i === hoje.getDate() &&
       mes === hoje.getMonth() &&
       ano === hoje.getFullYear()
     ) {
-      dia.style.border = "2px solid red";
+      dia.style.border = "2px solid blue";
     }
 
     // 🔵 bolinhas

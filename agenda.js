@@ -1,5 +1,6 @@
 const agenda = {
 
+  //////////// MAIO ////////////
   //ANO - MES - DIA
   "2026-05-05": {
     eventos: [],
@@ -59,6 +60,221 @@ const agenda = {
     eventos: ["AVALIA SESI I - Humanas e Exatas"],
     trabalhos: [],
     atividades: []
-  }
+  },
 
+  //////////// JUNHO ////////////
+  "2026-06-01": {
+    eventos: ["Início do II° Trimestre!"],
+    trabalhos: [],
+    atividades: []
+  },
+
+  "2026-06-02": {
+    eventos: ["MiniMun do CRI!"],
+    trabalhos: [],
+    atividades: []
+  },
+
+  "2026-06-03": {
+    eventos: ["Aniversário de Ryan!", "Aniversário de Sofia!"],
+    trabalhos: [],
+    atividades: []
+  },
+
+  "2026-06-07": {
+    eventos: ["Aniversário de Pedro Henrique!"],
+    trabalhos: [],
+    atividades: []
+  },
+
+  "2026-06-09": {
+    eventos: ["1° Fase da OBMEP"],
+    trabalhos: [],
+    atividades: []
+  },
+
+  "2026-06-15": {
+    eventos: ["Resultados do I° Trimestre"],
+    trabalhos: [],
+    atividades: []
+  },
+
+  "2026-06-18": {
+    eventos: ["Forró dos estudantes!"],
+    trabalhos: [],
+    atividades: []
+  },
+
+  "2026-06-19": {
+    eventos: ["Divulgação do nome das equipes selecionadas para a Fase 6 na ONHB","Recesso Junino! Até 03/07!"],
+    trabalhos: [],
+    atividades: []
+  },
+
+  "2026-06-26": {
+    eventos: ["Divulgação do nome das equipes Medalhistas estaduais da ONHB!"],
+    trabalhos: [],
+    atividades: []
+  },
+
+  //////////// JULHO ////////////
+
+  //////////// AGOSTO ////////////
+  "2026-08-07": {
+    eventos: ["Processo seletivo de bolsas da I.C"],
+    trabalhos: [],
+    atividades: []
+  },
+
+  "2026-08-12": {
+    eventos: ["Jogos escolares da rede SESI!"],
+    trabalhos: [],
+    atividades: []
+  },
+
+  "2026-08-13": {
+    eventos: ["Jogos escolares da rede SESI!"],
+    trabalhos: [],
+    atividades: []
+  },
+
+  "2026-08-14": {
+    eventos: ["Jogos escolares da rede SESI!"],
+    trabalhos: [],
+    atividades: []
+  },
+
+  "2026-08-15": {
+    eventos: ["Jogos escolares da rede SESI!"],
+    trabalhos: [],
+    atividades: []
+  },
+
+  "2026-08-22": {
+    eventos: ["Aniversário de Lara!"],
+    trabalhos: [],
+    atividades: []
+  },
+
+  "2026-08-24": {
+    eventos: ["Aniversário de Vitor Gabriel!", "Semana de AV3 do II Trimestre"],
+    trabalhos: [],
+    atividades: []
+  },
+
+  "2026-08-25": {
+    eventos: ["Semana de AV3 do II Trimestre"],
+    trabalhos: [],
+    atividades: []
+  },
+
+  "2026-08-26": {
+    eventos: ["Aniversário de Felipe!", "Semana de AV3 do II Trimestre"],
+    trabalhos: [],
+    atividades: []
+  },
+
+  "2026-08-27": {
+    eventos: ["Aniversário de Alex!", "Semana de AV3 do II Trimestre"],
+    trabalhos: [],
+    atividades: []
+  },
+
+  "2026-08-28": {
+    eventos: ["Semana de AV3 do II Trimestre"],
+    trabalhos: [],
+    atividades: []
+  },
+
+  "2026-08-29": {
+    eventos: ["Aniversário de Breno!", "Aniversário de Mota!"],
+    trabalhos: [],
+    atividades: []
+  },
+
+  //////////// SETEMBRO ////////////
+  "2026-09-28": {
+    eventos: ["Aniversário de Vitor Hugo!"],
+    trabalhos: [],
+    atividades: []
+  },
+  //////////// OUTUBRO ////////////
+  "2026-10-09": {
+    eventos: ["MOSTRA STEAM"],
+    trabalhos: [],
+    atividades: []
+  },
+
+  "2026-10-12": {
+    eventos: ["Nossa Senhora Aparecida! - Sem aula!"],
+    trabalhos: [],
+    atividades: []
+  },
+
+  "2026-10-15": {
+    eventos: ["Dia dos professores! - Sem aula!"],
+    trabalhos: [],
+    atividades: []
+  },
+
+  "2026-10-17": {
+    eventos: ["Aniversário de Camilly!", "2° Fase da OBMEP"],
+    trabalhos: [],
+    atividades: []
+  },
+
+  "2026-10-26": {
+    eventos: ["Aniversário de Lemos!"],
+    trabalhos: [],
+    atividades: []
+  },
+
+  "2026-10-28": {
+    eventos: ["AVALIA SESI II"],
+    trabalhos: [],
+    atividades: []
+  },
+
+  "2026-10-29": {
+    eventos: ["Aniversário de Jônatas!", "AVALIA SESI II"],
+    trabalhos: [],
+    atividades: []
+  },
+
+  "2026-10-30": {
+    eventos: ["AVALIA SESI II"],
+    trabalhos: [],
+    atividades: []
+  },
+
+  //////////// NOVEMBRO ////////////
+  "2026-11-02": {
+    eventos: ["Aniversário de Rodrigo!"],
+    trabalhos: [],
+    atividades: []
+  },
+
+  "2026-11-07": {
+    eventos: ["Aniversário de Lucero!"],
+    trabalhos: [],
+    atividades: []
+  },
+
+  "2026-11-17": {
+    eventos: ["Aniversário de Luíza Luz!"],
+    trabalhos: [],
+    atividades: []
+  },
+
+  "2026-11-20": {
+    eventos: ["Aniversário de Isabelle!"],
+    trabalhos: [],
+    atividades: []
+  },
+
+  "2026-11-26": {
+    eventos: ["Aniversário de Valentina!"],
+    trabalhos: [],
+    atividades: []
+  }
 };
