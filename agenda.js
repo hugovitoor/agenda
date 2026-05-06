@@ -17,7 +17,7 @@ const agenda = {
   "2026-05-07": {
     eventos: [],
     trabalhos: ["IF - Apresentação do banner, vídeo e animal"],
-    atividades: []
+    atividades: ["Cul. Di. - Caderno"]
   },
 
   "2026-05-08": {
@@ -29,7 +29,7 @@ const agenda = {
   "2026-05-11": {
     eventos: [],
     trabalhos: [],
-    atividades: ["EngFAll - NC, páginas 41 a 43"]
+    atividades: ["EngFAll - NC, páginas 41 a 43", "Química - lista"]
   },
 
   "2026-05-12": {
@@ -41,7 +41,7 @@ const agenda = {
   "2026-05-13": {
     eventos: ["Aniversário de Elia!", "2° encontro do letramento racial"],
     trabalhos: [],
-    atividades: []
+    atividades: ["Inglês - Linguagens, página 37 (Questão 4 e 5)"]
   },
 
   "2026-05-16": {

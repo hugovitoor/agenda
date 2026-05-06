@@ -422,3 +422,10 @@ body {
   color: white;
   border-radius: 10px;
 }
+
+.atualizacao {
+  text-align: center;
+  color: #33638b;
+  font-size: 13px;
+  margin: 30px 0 10px;
+}
