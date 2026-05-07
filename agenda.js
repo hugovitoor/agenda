@@ -17,11 +17,11 @@ const agenda = {
   "2026-05-07": {
     eventos: [],
     trabalhos: ["IF - Apresentação do banner, vídeo e animal"],
-    atividades: ["Cul. Di. - Caderno"]
+    atividades: []
   },
 
   "2026-05-08": {
-    eventos: ["Aniversário de Eduardo!"],
+    eventos: ["Aniversário de Eduardo!", "2° Fase do Baleado (13h50 as 15h30)", "2° Fase do Basquete (15h00 as 16h40)", "Fase Final do Vôlei (15h30 as 17h30)"],
     trabalhos: [],
     atividades: ["LP - Revisar 'Frase, oração e período'", "Matemática - lista"]
   },
@@ -29,7 +29,7 @@ const agenda = {
   "2026-05-11": {
     eventos: [],
     trabalhos: [],
-    atividades: ["EngFAll - NC, páginas 41 a 43", "Química - lista"]
+    atividades: ["EngFAll - NC, páginas 41 a 43", "Química - lista", "História - Humanas(6), páginas 23 e 24"]
   },
 
   "2026-05-12": {
@@ -41,7 +41,19 @@ const agenda = {
   "2026-05-13": {
     eventos: ["Aniversário de Elia!", "2° encontro do letramento racial"],
     trabalhos: [],
-    atividades: ["Inglês - Linguagens, página 37 (Questão 4 e 5)"]
+    atividades: ["Inglês - Linguagens, página 37 (Questão 4 e 5)", "Filosofia - Humanas(5), páginas 66, 67, 68, 90 e 91", "Cul. Di. - Caderno", "Obs. Trazer módulo 6 de humanas"]
+  },
+
+  "2026-05-14": {
+    eventos: [],
+    trabalhos: [],
+    atividades: ["Artes - caderno"]
+  },
+
+  "2026-05-15": {
+    eventos: [],
+    trabalhos: ["Núcleo Comum - Última data de entrega do Padlet"],
+    atividades: []
   },
 
   "2026-05-16": {
