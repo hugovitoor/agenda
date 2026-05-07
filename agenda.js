@@ -88,7 +88,7 @@ const agenda = {
   },
 
   "2026-06-03": {
-    eventos: ["Aniversário de Ryan!", "Aniversário de Sofia!"],
+    eventos: ["Aniversário de Ryan!"],
     trabalhos: [],
     atividades: []
   },
@@ -130,6 +130,12 @@ const agenda = {
   },
 
   //////////// JULHO ////////////
+
+  "2026-07-03": {
+    eventos: ["Aniversário de Sofia!"],
+    trabalhos: [],
+    atividades: []
+  },
 
   //////////// AGOSTO ////////////
   "2026-08-07": {
