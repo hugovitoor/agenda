@@ -22,7 +22,7 @@ const agenda = {
 
   "2026-05-08": {
     eventos: ["Aniversário de Eduardo!", "2° Fase do Baleado (13h50 as 15h30)", "2° Fase do Basquete (15h00 as 16h40)", "Fase Final do Vôlei (15h30 as 17h30)", "Última data de entrega das latinhas, garrafas e tampinhas para o desafio de sustentabilidade da robótica!"],
-    trabalhos: [],
+    trabalhos: ["IF - Apresentação das equipes 6 e 7 do banner, vídeo e animal"],
     atividades: ["LP - Revisar 'Frase, oração e período'", "Matemática - lista"]
   },
 
