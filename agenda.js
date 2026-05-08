@@ -29,7 +29,7 @@ const agenda = {
   "2026-05-11": {
     eventos: [],
     trabalhos: [],
-    atividades: ["EngFAll - NC, páginas 41 a 43", "Química - lista", "História - Humanas(6), páginas 23 e 24"]
+    atividades: ["EngFAll - NC, páginas 41 a 43", "Química - lista", "História - Humanas(6), páginas 23 e 24", "Matemática - Exatas(6), página 14", "Biologia - Naturezas(6), páginas 33 (2, 3, 4 e 5), 34 (2 e 3) e 35 (1 e 2)"]
   },
 
   "2026-05-12": {
@@ -53,13 +53,19 @@ const agenda = {
   "2026-05-15": {
     eventos: [],
     trabalhos: ["Núcleo Comum - Última data de entrega do Padlet"],
-    atividades: []
+    atividades: ["Produção textual - lista"]
   },
 
   "2026-05-16": {
     eventos: ["Dia da família!"],
     trabalhos: [],
     atividades: []
+  },
+
+  "2026-05-21": {
+    eventos: [],
+    trabalhos: [],
+    atividades: ["I.C e projetos - IF(2), páginas 13, 14, 21 e 22"]
   },
 
   "2026-05-28": {
