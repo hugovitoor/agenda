@@ -22,14 +22,14 @@ const agenda = {
 
   "2026-05-08": {
     eventos: ["Aniversário de Eduardo!", "2° Fase do Baleado (13h50 as 15h30)", "2° Fase do Basquete (15h00 as 16h40)", "Fase Final do Vôlei (15h30 as 17h30)", "Última data de entrega das latinhas, garrafas e tampinhas para o desafio de sustentabilidade da robótica!"],
-    trabalhos: ["IF - Apresentação das equipes 6 e 7 do banner, vídeo e animal"],
+    trabalhos: ["IF - Apresentação das equipes 6 e 7 do banner, vídeo e animal", "Última data de entrega do relatório de IF"],
     atividades: ["LP - Revisar 'Frase, oração e período'", "Matemática - lista"]
   },
 
   "2026-05-11": {
     eventos: [],
     trabalhos: [],
-    atividades: ["EngFAll - NC, páginas 41 a 43", "Química - lista", "História - Humanas(6), páginas 23 e 24", "Matemática - Exatas(6), página 14", "Biologia - Naturezas(6), páginas 33 (2, 3, 4 e 5), 34 (2 e 3) e 35 (1 e 2)"]
+    atividades: ["EngFAll - NC(2), páginas 37, 38, 40, 41 a 43", "Inglês - Linguagens, página 37 (Questão 4 e 5)", "Química - lista", "História - Humanas(6), páginas 23 e 24", "Matemática - Exatas(6), página 14", "Biologia - Naturezas(6), páginas 33 (2, 3, 4 e 5), 34 (2 e 3) e 35 (1 e 2)"]
   },
 
   "2026-05-12": {
@@ -41,7 +41,7 @@ const agenda = {
   "2026-05-13": {
     eventos: ["Aniversário de Elia!", "2° encontro do letramento racial"],
     trabalhos: [],
-    atividades: ["Inglês - Linguagens, página 37 (Questão 4 e 5)", "Filosofia - Humanas(5), páginas 66, 67, 68, 90 e 91", "Cul. Di. - Caderno", "Obs. Trazer módulo 6 de humanas"]
+    atividades: ["Filosofia - Humanas(5), páginas 66, 67, 68, 90 e 91", "Cul. Di. - Caderno", "Obs. Trazer módulo 6 de humanas"]
   },
 
   "2026-05-14": {
