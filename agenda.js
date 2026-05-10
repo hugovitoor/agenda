@@ -296,6 +296,12 @@ const agenda = {
     atividades: []
   },
 
+  "2026-11-25": {
+    eventos: ["Último dia de aula!"],
+    trabalhos: [],
+    atividades: []
+  },
+
   "2026-11-26": {
     eventos: ["Aniversário de Valentina!"],
     trabalhos: [],
