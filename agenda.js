@@ -34,7 +34,7 @@ const agenda = {
 
   "2026-05-12": {
     eventos: [],
-    trabalhos: ["Apresentação de PV"],
+    trabalhos: ["Apresentação de PV do jogo"],
     atividades: ["PV - PV, páginas 58 e 59", "Geografia - caderno"]
   },
 
