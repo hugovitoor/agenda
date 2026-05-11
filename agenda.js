@@ -53,13 +53,19 @@ const agenda = {
   "2026-05-15": {
     eventos: [],
     trabalhos: ["Núcleo Comum - Última data de entrega do Padlet"],
-    atividades: ["Produção textual - lista"]
+    atividades: ["Produção textual - lista", "Matemática - Exatas(6), página 15"]
   },
 
   "2026-05-16": {
     eventos: ["Dia da família!"],
     trabalhos: [],
     atividades: []
+  },
+
+  "2026-05-18": {
+    eventos: [],
+    trabalhos: [],
+    atividades: ["EngFAll - NC(2), páginas 37, 38, 40, 41 a 44!"]
   },
 
   "2026-05-21": {
