@@ -74,6 +74,12 @@ const agenda = {
     atividades: []
   },
 
+    "2026-05-20": {
+    eventos: [],
+    trabalhos: [],
+    atividades: ["Filosofia - caderno"]
+  },
+
   "2026-05-21": {
     eventos: [],
     trabalhos: [],
@@ -139,12 +145,6 @@ const agenda = {
     eventos: ["Divulgação do nome das equipes selecionadas para a Fase 6 na ONHB","Recesso Junino! Até 03/07!"],
     trabalhos: [],
     atividades: []
-  },
-
-  "2026-06-20": {
-    eventos: [],
-    trabalhos: [],
-    atividades: ["Filosofia - caderno"]
   },
 
   "2026-06-26": {
