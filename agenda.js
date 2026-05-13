@@ -45,13 +45,13 @@ const agenda = {
   },
 
   "2026-05-14": {
-    eventos: ["InterSESI - Processo seletivo de Xadrez!"],
+    eventos: ["Processo seletivo de Xadrex!(13h50 as 15h50)"],
     trabalhos: [],
     atividades: ["Artes - caderno"]
   },
 
   "2026-05-15": {
-    eventos: ["InterSESI - Processo seletivo de Xadrez!"],
+    eventos: ["Processo seletivo de Xadrex! (13h50 as 15h50)"],
     trabalhos: ["Núcleo Comum - Última data de entrega do Padlet"],
     atividades: ["Produção textual - lista", "Matemática - Exatas(6), página 44"]
   },
@@ -72,6 +72,12 @@ const agenda = {
     eventos: [],
     trabalhos: ["Apresentação das equipes 1, 4, 5, 6 e 7 da AV3 de PV!"],
     atividades: []
+  },
+
+    "2026-05-20": {
+    eventos: ["Aula prática de EF!"],
+    trabalhos: [],
+    atividades: ["Filosofia - caderno"]
   },
 
   "2026-05-21": {
