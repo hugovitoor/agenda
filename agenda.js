@@ -141,6 +141,12 @@ const agenda = {
     atividades: []
   },
 
+  "2026-06-20": {
+    eventos: [],
+    trabalhos: [],
+    atividades: ["Filosofia - caderno"]
+  },
+
   "2026-06-26": {
     eventos: ["Divulgação do nome das equipes Medalhistas estaduais da ONHB!"],
     trabalhos: [],
