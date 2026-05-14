@@ -1,56 +1,81 @@
+/* =========================
+  FONTES
+========================= */
+
 @font-face {
   font-family: 'Gliker';
   src: url('fonts/Gliker-Regular.ttf') format('truetype');
 }
 
-body {
-  font-family: Arial;
-  text-align: center;
-  background: white;
+/* =========================
+  CORES
+========================= */
+
+:root {
+  --azul-claro: #b5ccd9;
+  --azul-escuro: #33648b;
+  --azul-info: #89acc2;
+  --cinza: #dfe7eb;
+  --texto: #000;
 }
 
+/* =========================
+  GERAL
+========================= */
+
+body {
+  font-family: 'Poppins', sans-serif;
+  text-align: center;
+  background: white;
+  margin: 0;
+  padding: 0;
+}
+
+/* =========================
+  TÍTULOS
+========================= */
+
 h1 {
-  margin-top: 20px;
-  letter-spacing: 1px;
   font-family: 'Gliker';
   font-size: 55px;
-  text-align: center;
-  color: #000000;
+  color: var(--texto);
   margin-top: 30px;
+  letter-spacing: 1px;
   text-shadow: 0 4px 12px rgba(0,0,0,0.25);
 }
 
-.calendario {
-  display: grid;
-  grid-template-columns: repeat(7, 1fr);
-  gap: 10px;
+h2 {
+  letter-spacing: 0.5px;
+}
+
+/* =========================
+  DESCRIÇÃO
+========================= */
+
+.descricao {
+  text-align: center;
   max-width: 600px;
-  margin: 20px auto;
+  margin: 10px auto 20px;
+  color: #555;
+  font-size: 14px;
 }
 
-.dia {
-  padding: 20px;
-  background: #b5ccd9;
-  border-radius: 8px;
-  cursor: pointer;
-}
+/* =========================
+  AVISOS
+========================= */
 
-.dia:hover {
-  background: #b5ccd9;
-}
-
-.selecionado {
-  background: #33648b;
-  color: white;
-}
-
-.info {
-  background: #89acc2;
+.card-aviso li {
+  background: var(--azul-claro);
   padding: 20px;
   border-radius: 10px;
-  max-width: 600px;
-  margin: auto;
+  max-width: 500px;
+  margin: 10px auto;
+  text-align: center;
 }
+
+/* =========================
+  TOPO DO CALENDÁRIO
+========================= */
 
 .topo {
   display: flex;
@@ -66,64 +91,17 @@ h1 {
   cursor: pointer;
   border-radius: 8px;
   border: none;
-  background: #89acc2;
+  background: var(--azul-info);
+  transition: 0.2s;
 }
 
 .topo button:hover {
-  background: #89acc2;
+  transform: scale(1.05);
 }
 
-.dia {
-  position: relative;
-  display: flex;
-  align-items: center;
-  justify-content: center;
-}
-
-/* 🔴 Evento */
-.tem-evento::after {
-  content: "";
-  width: 6px;
-  height: 6px;
-  background: red;
-  border-radius: 50%;
-  position: absolute;
-  bottom: 6px;
-  left: 6px;
-}
-
-/* 🟡 Trabalho */
-.tem-trabalho::before {
-  content: "";
-  width: 8px;
-  height: 8px;
-  background: yellow;
-  border-radius: 50%;
-  position: absolute;
-  bottom: 5px;
-  left: 16px;
-}
-
-/* 🔵 Atividade */
-.tem-atividade::marker {
-  content: "";
-}
-
-/* 🔵 bolinha 3 (usando outro pseudo-elemento via sombra fake)*/
-.tem-atividade::after {
-  box-shadow: 20px 0 blue;
-}
-
-.tem-evento::after {
-  content: "";
-  width: 8px;
-  height: 8px;
-  background: red;
-  border-radius: 50%;
-  position: absolute;
-  bottom: 5px;
-  right: 5px;
-}
+/* =========================
+  DIAS DA SEMANA
+========================= */
 
 .dias-semana {
   display: grid;
@@ -136,6 +114,55 @@ h1 {
 .dias-semana div {
   padding: 10px;
 }
+
+/* =========================
+  CALENDÁRIO
+========================= */
+
+.calendario {
+  display: grid;
+  grid-template-columns: repeat(7, 1fr);
+  gap: 10px;
+  max-width: 600px;
+  margin: 20px auto;
+}
+
+/* =========================
+  DIAS
+========================= */
+
+.dia {
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+
+  padding: 20px;
+  background: var(--azul-claro);
+  border-radius: 10px;
+  cursor: pointer;
+
+  transition: 0.2s;
+  -webkit-tap-highlight-color: transparent;
+}
+
+.dia:hover {
+  transform: scale(1.03);
+}
+
+.dia.selecionado {
+  background: var(--azul-escuro) !important;
+  color: white;
+}
+
+.dia-apagado {
+  background: #e6f3fa;
+  color: #89acc2;
+}
+
+/* =========================
+  BOLINHAS
+========================= */
 
 .bolinhas {
   position: absolute;
@@ -163,8 +190,12 @@ h1 {
   background: blue;
 }
 
+/* =========================
+  INFO DO DIA
+========================= */
+
 .info {
-  background: #b5ccd9;
+  background: var(--azul-claro);
   border-radius: 20px;
   padding: 25px;
   max-width: 500px;
@@ -179,18 +210,29 @@ h1 {
   margin-bottom: 20px;
 }
 
+/* =========================
+  CARDS
+========================= */
+
 .card-section {
   margin-bottom: 15px;
   padding: 12px;
   border-radius: 12px;
-  background: #ffffff;
+  background: white;
 }
 
 .card-section h3 {
   margin-bottom: 8px;
 }
 
-/* 🎨 cores por tipo */
+.card-section div {
+  padding-left: 10px;
+}
+
+/* =========================
+  CORES DOS CARDS
+========================= */
+
 .eventos {
   border-left: 5px solid red;
 }
@@ -203,38 +245,9 @@ h1 {
   border-left: 5px solid blue;
 }
 
-/* lista */
-.card-section div {
-  padding-left: 10px;
-}
-
-/* animação suave */
-@keyframes fadeIn {
-  from {
-    opacity: 0;
-    transform: translateY(10px);
-  }
-  to {
-    opacity: 1;
-    transform: translateY(0);
-  }
-}
-
-h2 {
-  letter-spacing: 0.5px;
-}
-
-body {
-  font-family: 'Poppins', sans-serif;
-}
-
-.descricao {
-  text-align: center;
-  max-width: 600px;
-  margin: 10px auto 20px;
-  color: #555;
-  font-size: 14px;
-}
+/* =========================
+  HORÁRIOS
+========================= */
 
 .horarios {
   text-align: center;
@@ -242,10 +255,15 @@ body {
 }
 
 .horarios img {
-    max-width: 65%;
-    border-radius: 15px;
-    box-shadow: 0 6px 20px #33648b;
+  max-width: 65%;
+  border-radius: 15px;
+  box-shadow: 0 6px 20px #33648b;
 }
+
+/* =========================
+  EXTRAS
+========================= */
+
 .extras {
   display: flex;
   gap: 20px;
@@ -255,18 +273,33 @@ body {
 }
 
 .extra-card {
-  background: #dfe7eb;
+  background: var(--cinza);
   padding: 20px;
   border-radius: 15px;
   width: 300px;
   text-align: center;
   box-shadow: 0 6px 15px rgba(0,0,0,0.2);
+
+  text-decoration: none;
+  color: inherit;
+  display: block;
+
+  transition: 0.3s;
+}
+
+.extra-card:hover {
+  transform: translateY(-5px);
+  box-shadow: 0 8px 20px rgba(0,0,0,0.25);
 }
 
 .extra-card h3 {
   font-size: 16px;
   margin-bottom: 15px;
 }
+
+/* =========================
+  CONTEÚDO DOS CARDS
+========================= */
 
 .conteudo-card {
   display: flex;
@@ -278,6 +311,18 @@ body {
   width: 70px;
 }
 
+.conteudo-card p {
+  font-weight: bold;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 15px;
+}
+
+/* =========================
+  TAGS
+========================= */
+
 .itens {
   display: flex;
   flex-direction: column;
@@ -285,32 +330,38 @@ body {
 }
 
 .itens span {
-  background: #b5ccd9;
+  background: var(--azul-claro);
   padding: 5px 10px;
   border-radius: 20px;
   font-size: 12px;
 }
 
-.conteudo-card p {
-  font-weight: bold;
-  display: flex;
-  align-items: center;      /* vertical */
-  justify-content: center;  /* horizontal */
-  gap: 15px;
-}
+/* =========================
+  FORMULÁRIO
+========================= */
 
-/* FORMULÁRIO */
 .formulario {
   text-align: center;
   margin: 40px auto;
+
+  text-decoration: none;
+  color: inherit;
+  display: block;
+
+  transition: 0.3s;
+}
+
+.formulario:hover {
+  transform: translateY(-5px);
 }
 
 .form-card {
-  background: #dfe7eb;
+  background: var(--cinza);
   padding: 20px;
   border-radius: 15px;
   max-width: 500px;
   margin: auto;
+
   display: flex;
   justify-content: space-between;
   align-items: center;
@@ -320,28 +371,9 @@ body {
   width: 85px;
 }
 
-.extra-card,
-.formulario {
-  text-decoration: none;
-  color: inherit;
-  display: block;
-  transition: 0.3s;
-}
-
-.extra-card:hover,
-.formulario:hover {
-  transform: translateY(-5px);
-  box-shadow: 0 8px 20px rgba(0,0,0,0.25);
-}
-
-.card-aviso li {
-  background: #b5ccd9;
-  padding: 20px;
-  border-radius: 10px;
-  max-width: 500px;
-  margin: 10px auto;
-  text-align: center;
-}
+/* =========================
+  DECORAÇÕES
+========================= */
 
 .decoracoes {
   position: fixed;
@@ -349,8 +381,8 @@ body {
   left: 0;
   width: 100%;
   height: 100%;
-  pointer-events: none; /* não atrapalha clique */
-  z-index: -1; /* fica atrás do site */
+  pointer-events: none;
+  z-index: -1;
 }
 
 .icone {
@@ -395,7 +427,42 @@ body {
   right: 35%;
 }
 
+/* =========================
+  ATUALIZAÇÃO
+========================= */
+
+.atualizacao {
+  text-align: center;
+  color: var(--azul-escuro);
+  font-size: 13px;
+  margin: 30px 0 10px;
+}
+
+/* =========================
+  ANIMAÇÕES
+========================= */
+
+@keyframes fadeIn {
+  from {
+    opacity: 0;
+    transform: translateY(10px);
+  }
+
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+/* =========================
+  MOBILE
+========================= */
+
 @media (max-width: 600px) {
+
+  h1 {
+    font-size: 40px;
+  }
 
   .calendario {
     max-width: 100%;
@@ -407,33 +474,22 @@ body {
     font-size: 12px;
   }
 
-  .icone {
-    width: 40px !important;
+  .horarios img {
+    max-width: 95%;
   }
 
-}
-
-@media (max-width: 600px) {
   .icone {
     opacity: 0.4;
     width: 30px !important;
   }
-}
 
-.dia-apagado {
-  background: #e6f3fa;
-  color: #89acc2;
-}
+  .conteudo-card {
+    flex-direction: column;
+    gap: 15px;
+  }
 
-.dia.selecionado {
-  background: #33638b !important;
-  color: white;
-  border-radius: 10px;
-}
-
-.atualizacao {
-  text-align: center;
-  color: #33638b;
-  font-size: 13px;
-  margin: 30px 0 10px;
+  .form-card {
+    flex-direction: column;
+    gap: 20px;
+  }
 }
