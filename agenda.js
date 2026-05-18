@@ -107,7 +107,7 @@ const agenda = {
   //////////// JUNHO ////////////
   "2026-06-01": {
     eventos: ["Início do II° Trimestre!"],
-    trabalhos: ["Disparada da AV3 da Redação! - Data de entrega: 08.06!"],
+    trabalhos: ["Disparada da AV3 da Redação! - Data de entrega: 08.06!", "Início da Repescagem das Redações (AV1, AV2 e AV3) - Data de entrega: 03.06!"],
     atividades: []
   },
 
@@ -119,7 +119,7 @@ const agenda = {
 
   "2026-06-03": {
     eventos: ["Aniversário de Ryan!"],
-    trabalhos: [],
+    trabalhos: ["Última data de entrega da Repescagem das Redações (AV1, AV2 e AV3)!"],
     atividades: []
   },
 
