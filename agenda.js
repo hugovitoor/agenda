@@ -89,7 +89,13 @@ const agenda = {
   "2026-05-22": {
     eventos: [],
     trabalhos: [],
-    atividades: ["Produção Textual - NC(2), página 12"]
+    atividades: ["Produção Textual - NC(2), página 12", "LP - Linguagens(6), página 49 e 50"]
+  },
+
+  "2026-05-26": {
+    eventos: [],
+    trabalhos: [],
+    atividades: ["Geografia - caderno"]
   },
 
   "2026-05-28": {
