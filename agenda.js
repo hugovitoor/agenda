@@ -92,6 +92,12 @@ const agenda = {
     atividades: ["Produção Textual - NC(2), página 12", "LP - Linguagens(6), página 49 e 50"]
   },
 
+  "2026-05-25": {
+    eventos: [],
+    trabalhos: [],
+    atividades: ["Química - lista"]
+  },
+
   "2026-05-26": {
     eventos: [],
     trabalhos: [],
@@ -124,7 +130,7 @@ const agenda = {
   },
 
   "2026-06-03": {
-    eventos: ["Aniversário de Ryan!"],
+    eventos: ["Aniversário de Ryan!", "Aula prática de EF - Futsal!"],
     trabalhos: ["Última data de entrega da Repescagem das Redações (AV1, AV2 e AV3)!"],
     atividades: []
   },
