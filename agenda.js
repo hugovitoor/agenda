@@ -101,7 +101,7 @@ const agenda = {
   "2026-05-26": {
     eventos: [],
     trabalhos: [],
-    atividades: ["Geografia - caderno"]
+    atividades: ["Geografia - caderno", "Cul. Di. - Naturezas(6), página 45"]
   },
 
   "2026-05-28": {
