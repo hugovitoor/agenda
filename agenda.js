@@ -83,7 +83,7 @@ const agenda = {
   "2026-05-21": {
     eventos: [],
     trabalhos: [],
-    atividades: ["I.C e projetos - IF(2), páginas 13, 14, 21 e 22", "Artes - Linguagens(6), página 41 (Para Construir, questões 1, 2 e 3)", "Temas Contemporâneos - NC(2), página 72"]
+    atividades: ["Artes - Linguagens(6), página 41 (Para Construir, questões 1, 2 e 3)", "Temas Contemporâneos - NC(2), página 72"]
   },
 
   "2026-05-22": {
@@ -101,7 +101,7 @@ const agenda = {
   "2026-05-26": {
     eventos: [],
     trabalhos: [],
-    atividades: ["Geografia - caderno", "Cul. Di. - Naturezas(6), página 45"]
+    atividades: ["Geografia - caderno", "Cul. Di. - Naturezas(6), página 45", "LP - lista de revisão"]
   },
 
   "2026-05-28": {
@@ -133,6 +133,18 @@ const agenda = {
     eventos: ["Aniversário de Ryan!", "Aula prática de EF - Futsal!"],
     trabalhos: ["Última data de entrega da Repescagem das Redações (AV1, AV2 e AV3)!"],
     atividades: []
+  },
+
+  "2026-06-04": {
+    eventos: [],
+    trabalhos: [],
+    atividades: ["I.C e projetos - IF(2), páginas 13, 14, 21 e 22"]
+  },
+
+  "2026-06-05": {
+    eventos: [],
+    trabalhos: [],
+    atividades: ["Ptext - lista"]
   },
 
   "2026-06-07": {
