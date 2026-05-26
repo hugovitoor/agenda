@@ -101,7 +101,7 @@ const agenda = {
   "2026-05-26": {
     eventos: [],
     trabalhos: [],
-    atividades: ["Geografia - caderno", "Cul. Di. - Naturezas(6), página 45", "LP - lista de revisão"]
+    atividades: ["Geografia - caderno", "Divul. Cient. - Naturezas(6), página 45", "LP - lista de revisão"]
   },
 
   "2026-05-28": {
@@ -136,15 +136,15 @@ const agenda = {
   },
 
   "2026-06-04": {
-    eventos: [],
+    eventos: ["Corpus Christi!"],
     trabalhos: [],
-    atividades: ["I.C e projetos - IF(2), páginas 13, 14, 21 e 22"]
+    atividades: []
   },
 
   "2026-06-05": {
     eventos: [],
     trabalhos: [],
-    atividades: ["Ptext - lista"]
+    atividades: ["Ptext - lista", "I.C e projetos - IF(2), páginas 13, 14, 21 e 22"]
   },
 
   "2026-06-07": {
