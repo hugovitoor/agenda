@@ -142,7 +142,7 @@ const agenda = {
   },
 
   "2026-06-05": {
-    eventos: [],
+  eventos: ["Último dia de inscrição para o ENEM!"],
     trabalhos: [],
     atividades: ["Ptext - lista", "I.C e projetos - IF(2), páginas 13, 14, 21 e 22"]
   },
