@@ -28,12 +28,17 @@ const diasBloqueados = [
   "2026-11-27",
   "2026-11-30",
 ];
-
+const hoje = new Date();
 const mesMin = 4;  // Maio
 const mesMax = 10; // Novembro
 
+let mesInicial = hoje.getMonth();
+
+if (mesInicial < mesMin) mesInicial = mesMin;
+if (mesInicial > mesMax) mesInicial = mesMax;
+
 // controle de data
-let dataAtual = new Date(2026, 4, 1);
+let dataAtual = new Date(2026, mesInicial, 1);
 
 function gerarCalendario() {
   calendario.innerHTML = "";
