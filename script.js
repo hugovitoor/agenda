@@ -3,6 +3,7 @@ const mesAno = document.getElementById("mesAno");
 const diasBloqueados = [
   "2026-05-01",
   "2026-06-04",
+  "2026-06-06",
   "2026-06-07",
   "2026-06-18",
   "2026-06-19",

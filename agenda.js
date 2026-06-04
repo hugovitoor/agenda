@@ -130,7 +130,7 @@ const agenda = {
   },
 
   "2026-06-03": {
-    eventos: ["Aniversário de Ryan!", "Aula prática de EF - Futsal!"],
+    eventos: ["Aula prática de EF - Futsal!"],
     trabalhos: ["Última data de entrega da Repescagem das Redações (AV1, AV2 e AV3)!"],
     atividades: []
   },
@@ -144,7 +144,13 @@ const agenda = {
   "2026-06-05": {
   eventos: ["Último dia de inscrição para o ENEM!"],
     trabalhos: [],
-    atividades: ["Ptext - lista", "I.C e projetos - IF(2), páginas 13, 14, 21 e 22"]
+    atividades: ["Ptext - lista", "I.C e projetos - IF(2), páginas 13, 14, 21 e 22", "Biologia - caderno com base na lista do olho de boi", "Matemática - Exatas(6), páginas 16 e 19", "LP - Linguagens(6), páginas 56 a 58"]
+  },
+
+  "2026-06-06": {
+  eventos: [],
+    trabalhos: ["Inglês - Último dia de entrega dos vídeos com mesmo tema!"],
+    atividades: []
   },
 
   "2026-06-07": {
@@ -156,13 +162,19 @@ const agenda = {
   "2026-06-08": {
     eventos: [],
     trabalhos: ["Última data de entrega da AV3 de Redação!"],
-    atividades: []
+    atividades: ["Inglês - Linguagens(6), página 103", "EngFAll - NC(2), páginas 48 e 49"]
   },
 
   "2026-06-09": {
     eventos: ["1° Fase da OBMEP"],
     trabalhos: [],
-    atividades: []
+    atividades: ["Física - Naturezas(6), páginas 17, 18, 25 e 26"]
+  },
+
+  "2026-06-10": {
+    eventos: [],
+    trabalhos: [],
+    atividades: ["Filosofia - caderno"]
   },
 
   "2026-06-15": {
@@ -192,7 +204,7 @@ const agenda = {
   //////////// JULHO ////////////
 
   "2026-07-03": {
-    eventos: ["Aniversário de Sofia!"],
+    eventos: ["Aniversário de Sofia!", "Aniversário de Ryan!"],
     trabalhos: [],
     atividades: []
   },
@@ -225,6 +237,12 @@ const agenda = {
   "2026-08-15": {
     eventos: ["Jogos escolares da rede SESI!"],
     trabalhos: [],
+    atividades: []
+  },
+
+  "2026-08-18": {
+    eventos: [],
+    trabalhos: ["Teatro Musical 'Torto Arado' - 2° horário!"],
     atividades: []
   },
 
