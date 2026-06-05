@@ -162,7 +162,7 @@ const agenda = {
   "2026-06-08": {
     eventos: [],
     trabalhos: ["Última data de entrega da AV3 de Redação!"],
-    atividades: ["Inglês - Linguagens(6), página 103", "EngFAll - NC(2), páginas 48 e 49"]
+    atividades: ["Inglês - Linguagens(6), página 103", "EngFAll - NC(2), páginas 48 e 49", "História - caderno"]
   },
 
   "2026-06-09": {
@@ -175,6 +175,18 @@ const agenda = {
     eventos: [],
     trabalhos: [],
     atividades: ["Filosofia - caderno"]
+  },
+
+  "2026-06-11": {
+    eventos: [],
+    trabalhos: [],
+    atividades: ["I.C e Projetos - caderno"]
+  },
+
+  "2026-06-12": {
+    eventos: [],
+    trabalhos: [],
+    atividades: ["Ptext - NC(2), página 23"]
   },
 
   "2026-06-15": {
