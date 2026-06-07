@@ -202,13 +202,7 @@ const agenda = {
   },
 
   "2026-06-19": {
-    eventos: ["Divulgação do nome das equipes selecionadas para a Fase 6 na ONHB","Recesso Junino! Até 03/07!"],
-    trabalhos: [],
-    atividades: []
-  },
-
-  "2026-06-26": {
-    eventos: ["Divulgação do nome das equipes Medalhistas estaduais da ONHB!"],
+    eventos: ["Recesso Junino! Até 03/07!"],
     trabalhos: [],
     atividades: []
   },
