@@ -171,28 +171,28 @@ const agenda = {
     atividades: ["Física - Naturezas(6), páginas 17, 18, 25 e 26"]
   },
 
-  "2026-06-10": {
-    eventos: [],
-    trabalhos: [],
-    atividades: ["Filosofia - caderno"]
-  },
-
   "2026-06-11": {
     eventos: [],
     trabalhos: [],
-    atividades: ["I.C e Projetos - caderno"]
+    atividades: ["Cultura Digital - caderno"]
   },
 
   "2026-06-12": {
     eventos: [],
     trabalhos: [],
-    atividades: ["Ptext - NC(2), página 23"]
+    atividades: ["Ptext - NC(2), página 23", "Matemática - Exatas(6), páginas 26 a 28"]
   },
 
   "2026-06-15": {
     eventos: ["Resultados do I° Trimestre"],
     trabalhos: [],
-    atividades: []
+    atividades: ["EngFAll - NC(2), páginas 53 a 55"]
+  },
+
+  "2026-06-17": {
+    eventos: ["Resultados do I° Trimestre"],
+    trabalhos: [],
+    atividades: ["Filosofia, caderno", "Inglês - Linguagens(6), página 103"]
   },
 
   "2026-06-18": {
@@ -204,6 +204,12 @@ const agenda = {
   "2026-06-19": {
     eventos: ["Recesso Junino! Até 03/07!"],
     trabalhos: [],
+    atividades: []
+  },
+
+  "2026-06-20": {
+    eventos: [],
+    trabalhos: ["Último dia de entrega do Padlet de Humanas!"],
     atividades: []
   },
 
