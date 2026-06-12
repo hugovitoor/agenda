@@ -183,16 +183,28 @@ const agenda = {
     atividades: ["Ptext - NC(2), página 23", "Matemática - Exatas(6), páginas 26 a 28"]
   },
 
+  "2026-06-14": {
+    eventos: [],
+    trabalhos: ["Última data de entrega dos comentários dos vídeos de inglês!"],
+    atividades: []
+  },
+
   "2026-06-15": {
     eventos: ["Resultados do I° Trimestre"],
     trabalhos: [],
-    atividades: ["EngFAll - NC(2), páginas 53 a 55"]
+    atividades: ["EngFAll - NC(2), páginas 53 a 55", "Matemática - Exatas(6), páginas 59"]
+  },
+
+  "2026-06-16": {
+    eventos: [],
+    trabalhos: [],
+    atividades: ["LP - Linguagens(6), páginas 67 e 68"]
   },
 
   "2026-06-17": {
     eventos: ["Resultados do I° Trimestre"],
     trabalhos: [],
-    atividades: ["Filosofia, caderno", "Inglês - Linguagens(6), página 103"]
+    atividades: ["Filosofia, caderno", "Inglês - Linguagens(6), página 103", "Cultura Digital - caderno"]
   },
 
   "2026-06-18": {
@@ -217,7 +229,13 @@ const agenda = {
 
   "2026-07-03": {
     eventos: ["Aniversário de Sofia!", "Aniversário de Ryan!"],
-    trabalhos: [],
+    trabalhos: ["Última data de entrega do roteiro do musical de 'Torto Arado'!"],
+    atividades: ["Ptext - NC(2), páginas 28 e 29", "Sociologia - Humanas(6), página 65", "IC e Projetos - Planilha sobre Artigo Científico para leonardo.ribeiro@escolasesiba.com.br"]
+  },
+
+  "2026-07-09": {
+    eventos: [],
+    trabalhos: ["Apresentação do Coletivo de Arte - Infográfico"],
     atividades: []
   },
 
