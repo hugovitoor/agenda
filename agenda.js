@@ -198,7 +198,7 @@ const agenda = {
   "2026-06-16": {
     eventos: [],
     trabalhos: [],
-    atividades: ["LP - Linguagens(6), páginas 67 e 68"]
+    atividades: ["LP - Linguagens(6), páginas 67 e 68", "LP - caderno (breve biografia sobre Jorge Amado)", "LP - caderno (resumo sobre 'Capitães da Areia')"]
   },
 
   "2026-06-17": {
@@ -214,7 +214,7 @@ const agenda = {
   },
 
   "2026-06-19": {
-    eventos: ["Recesso Junino! Até 03/07!"],
+    eventos: ["Recesso Junino! Até 06/07!"],
     trabalhos: [],
     atividades: []
   },
@@ -229,13 +229,49 @@ const agenda = {
 
   "2026-07-03": {
     eventos: ["Aniversário de Sofia!", "Aniversário de Ryan!"],
-    trabalhos: ["Última data de entrega do roteiro do musical de 'Torto Arado'!"],
-    atividades: ["Ptext - NC(2), páginas 28 e 29", "Sociologia - Humanas(6), página 65", "IC e Projetos - Planilha sobre Artigo Científico para leonardo.ribeiro@escolasesiba.com.br"]
+    trabalhos: [],
+    atividades: []
+  },
+
+  "2026-07-06": {
+    eventos: [],
+    trabalhos: ["Abertura da AV1 de Redação!", "Última data de entrega do roteiro do musical de 'Torto Arado'!"],
+    atividades: []
+  },
+
+  "2026-07-07": {
+    eventos: [],
+    trabalhos: ["Primeira etapa da AV1 de PV!"],
+    atividades: []
   },
 
   "2026-07-09": {
     eventos: [],
     trabalhos: ["Apresentação do Coletivo de Arte - Infográfico"],
+    atividades: ["Temas Contemporâneos - resenha crítica do 'Que horas ela volta?'", "IC e Projetos - Planilha sobre Artigo Científico para leonardo.ribeiro@escolasesiba.com.br"]
+  },
+
+  "2026-07-10": {
+    eventos: [],
+    trabalhos: [],
+    atividades: ["Ptext - NC(2), páginas 28 e 29", "Sociologia - Humanas(6), página 65"]
+  },
+
+  "2026-07-14": {
+    eventos: [],
+    trabalhos: ["Segunda etapa da AV1 de PV!"],
+    atividades: []
+  },
+
+  "2026-07-17": {
+    eventos: [],
+    trabalhos: ["Última data de entrega da AV1 de Redação!"],
+    atividades: []
+  },
+
+  "2026-07-21": {
+    eventos: [],
+    trabalhos: ["Apresentação da AV2 de PV!"],
     atividades: []
   },
 
@@ -243,6 +279,12 @@ const agenda = {
   "2026-08-07": {
     eventos: ["Processo seletivo de bolsas da I.C"],
     trabalhos: [],
+    atividades: []
+  },
+
+  "2026-08-11": {
+    eventos: [],
+    trabalhos: ["Apresentação do jogo completo de PV!"],
     atividades: []
   },
 
@@ -319,6 +361,13 @@ const agenda = {
   },
 
   //////////// SETEMBRO ////////////
+
+  "2026-09-07": {
+    eventos: ["Independência do Brasil! - Sem aula!"],
+    trabalhos: [],
+    atividades: []
+  },
+
   "2026-09-28": {
     eventos: ["Aniversário de Vitor Hugo!"],
     trabalhos: [],
@@ -326,7 +375,7 @@ const agenda = {
   },
   //////////// OUTUBRO ////////////
   "2026-10-09": {
-    eventos: ["MOSTRA STEAM"],
+    eventos: ["Seminário de Boas Práticas - Sem aula!"],
     trabalhos: [],
     atividades: []
   },
@@ -349,33 +398,39 @@ const agenda = {
     atividades: []
   },
 
+  "2026-10-19": {
+    eventos: ["MOSTRA STEAM"],
+    trabalhos: [],
+    atividades: []
+  },
+
+  "2026-10-20": {
+      eventos: ["MOSTRA STEAM"],
+      trabalhos: [],
+      atividades: []
+    },
+
   "2026-10-26": {
     eventos: ["Aniversário de Lemos!"],
     trabalhos: [],
     atividades: []
   },
 
-  "2026-10-28": {
-    eventos: ["AVALIA SESI II"],
-    trabalhos: [],
-    atividades: []
-  },
-
   "2026-10-29": {
-    eventos: ["Aniversário de Jônatas!", "AVALIA SESI II"],
+    eventos: ["Aniversário de Jônatas!", "AVALIA SESI II - Naturezas e Linguagens"],
     trabalhos: [],
     atividades: []
   },
 
   "2026-10-30": {
-    eventos: ["AVALIA SESI II"],
+    eventos: ["AVALIA SESI II - Humanas e Exatas"],
     trabalhos: [],
     atividades: []
   },
 
   //////////// NOVEMBRO ////////////
   "2026-11-02": {
-    eventos: ["Aniversário de Rodrigo!"],
+    eventos: ["Finados - Sem aula!", "Aniversário de Rodrigo!"],
     trabalhos: [],
     atividades: []
   },
@@ -386,20 +441,32 @@ const agenda = {
     atividades: []
   },
 
+  "2026-11-16": {
+    eventos: ["Semana de AV3 do III Trimestre!"],
+    trabalhos: [],
+    atividades: []
+  },
+
   "2026-11-17": {
-    eventos: ["Aniversário de Luíza Luz!"],
+    eventos: ["Semana de AV3 do III Trimestre!", "Aniversário de Luíza Luz!"],
     trabalhos: [],
     atividades: []
   },
 
+  "2026-11-18": {
+    eventos: ["Semana de AV3 do III Trimestre!"],
+    trabalhos: [],
+    atividades: []
+  },
+
+  "2026-11-19": {
+    eventos: ["Semana de AV3 do III Trimestre!", "Último dia de aula!"],
+    trabalhos: [],
+    atividades: []
+  },
+  
   "2026-11-20": {
-    eventos: ["Aniversário de Isabelle!"],
-    trabalhos: [],
-    atividades: []
-  },
-
-  "2026-11-25": {
-    eventos: ["Último dia de aula!"],
+    eventos: ["Dia da Consciência Negra - Sem aula!", "Aniversário de Isabelle!"],
     trabalhos: [],
     atividades: []
   },
