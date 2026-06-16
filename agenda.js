@@ -242,7 +242,7 @@ const agenda = {
   "2026-07-07": {
     eventos: [],
     trabalhos: ["Primeira etapa da AV1 de PV!"],
-    atividades: []
+    atividades: ["Geo - Humanas(6), página 68", "LP - Linguagens(6), página 85", "LP - caderno", "Geo - caderno"]
   },
 
   "2026-07-09": {
