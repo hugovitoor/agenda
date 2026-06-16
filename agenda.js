@@ -219,12 +219,6 @@ const agenda = {
     atividades: []
   },
 
-  "2026-06-20": {
-    eventos: [],
-    trabalhos: ["Último dia de entrega do Padlet de Humanas!"],
-    atividades: []
-  },
-
   //////////// JULHO ////////////
 
   "2026-07-03": {
@@ -266,6 +260,12 @@ const agenda = {
   "2026-07-17": {
     eventos: [],
     trabalhos: ["Última data de entrega da AV1 de Redação!"],
+    atividades: []
+  },
+
+  "2026-07-20": {
+    eventos: [],
+    trabalhos: ["Data de entrega do Padlet de Humanas!"],
     atividades: []
   },
 
