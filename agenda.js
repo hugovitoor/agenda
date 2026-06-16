@@ -192,7 +192,7 @@ const agenda = {
   "2026-06-15": {
     eventos: ["Resultados do I° Trimestre"],
     trabalhos: [],
-    atividades: ["EngFAll - NC(2), páginas 53 a 55", "Matemática - Exatas(6), páginas 59"]
+    atividades: ["Matemática - Exatas(6), páginas 59"]
   },
 
   "2026-06-16": {
@@ -204,7 +204,7 @@ const agenda = {
   "2026-06-17": {
     eventos: ["Resultados do I° Trimestre"],
     trabalhos: [],
-    atividades: ["Filosofia, caderno", "Inglês - Linguagens(6), página 103", "Cultura Digital - caderno"]
+    atividades: ["Filosofia, caderno", "EngFAll - NC(2), páginas 53 a 55", "Cultura Digital - caderno"]
   },
 
   "2026-06-18": {
