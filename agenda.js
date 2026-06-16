@@ -198,7 +198,7 @@ const agenda = {
   "2026-06-16": {
     eventos: [],
     trabalhos: [],
-    atividades: ["LP - Linguagens(6), páginas 67 e 68", "LP - caderno (breve biografia sobre Jorge Amado)", "LP - caderno (resumo sobre 'Capitães da Areia')"]
+    atividades: ["LP - Linguagens(6), páginas 67 e 68", "LP - caderno (breve biografia sobre Jorge Amado)", "LP - caderno (resumo sobre 'Capitães da Areia')", "Matemática - Exatas(6), páginas 59 a 62"]
   },
 
   "2026-06-17": {
@@ -236,7 +236,7 @@ const agenda = {
   "2026-07-06": {
     eventos: [],
     trabalhos: ["Abertura da AV1 de Redação!", "Última data de entrega do roteiro do musical de 'Torto Arado'!"],
-    atividades: []
+    atividades: ["Inglês - Linguagens(6), página 103"]
   },
 
   "2026-07-07": {
