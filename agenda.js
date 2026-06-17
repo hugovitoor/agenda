@@ -204,17 +204,11 @@ const agenda = {
   "2026-06-17": {
     eventos: ["Resultados do I° Trimestre"],
     trabalhos: [],
-    atividades: ["Filosofia, caderno", "EngFAll - NC(2), páginas 53 a 55", "Cultura Digital - caderno"]
+    atividades: ["Filosofia - caderno", "EngFAll - NC(2), páginas 53 a 55", "Cultura Digital - caderno"]
   },
 
   "2026-06-18": {
-    eventos: ["Forró dos estudantes!"],
-    trabalhos: [],
-    atividades: []
-  },
-
-  "2026-06-19": {
-    eventos: ["Recesso Junino! Até 06/07!"],
+    eventos: ["Forró dos estudantes!", "Recesso Junino! Até 06/07!"],
     trabalhos: [],
     atividades: []
   },
@@ -228,32 +222,50 @@ const agenda = {
   },
 
   "2026-07-06": {
-    eventos: [],
-    trabalhos: ["Abertura da AV1 de Redação!", "Última data de entrega do roteiro do musical de 'Torto Arado'!"],
+    eventos: ["Data de inscrição da Recuperação Paralela"],
+    trabalhos: ["Abertura da AV1 de Redação!", "Última data de entrega do roteiro do musical de 'Torto Arado'!", "Confecção do padlet de humanas na sala de informática - 5° horário"],
     atividades: ["Inglês - Linguagens(6), página 103"]
   },
 
   "2026-07-07": {
-    eventos: [],
+    eventos: ["Data de inscrição da Recuperação Paralela"],
     trabalhos: ["Primeira etapa da AV1 de PV!"],
     atividades: ["Geo - Humanas(6), página 68", "LP - Linguagens(6), página 85", "LP - caderno", "Geo - caderno"]
   },
 
-  "2026-07-09": {
+  "2026-07-08": {
     eventos: [],
+    trabalhos: ["Confecção do padlet de humanas na sala de informática - 3° horário", "Treinamento no auditório para o musical de 'Torto Arado'! - 5° horário"],
+    atividades: ["Cul. Di. - caderno", "Filosofia - caderno"]
+  },
+
+  "2026-07-09": {
+    eventos: ["Recuperação Paralela de Naturezas"],
     trabalhos: ["Apresentação do Coletivo de Arte - Infográfico"],
     atividades: ["Temas Contemporâneos - resenha crítica do 'Que horas ela volta?'", "IC e Projetos - Planilha sobre Artigo Científico para leonardo.ribeiro@escolasesiba.com.br"]
   },
 
   "2026-07-10": {
-    eventos: [],
+    eventos: ["Recuperação Paralela de Linguagens"],
     trabalhos: [],
     atividades: ["Ptext - NC(2), páginas 28 e 29", "Sociologia - Humanas(6), página 65"]
   },
 
+  "2026-07-13": {
+    eventos: ["Recuperação Paralela de Humanas"],
+    trabalhos: [],
+    atividades: []
+  },
+
   "2026-07-14": {
-    eventos: [],
+    eventos: ["Recuperação Paralela de Exatas"],
     trabalhos: ["Segunda etapa da AV1 de PV!"],
+    atividades: []
+  },
+
+   "2026-07-15": {
+    eventos: [],
+    trabalhos: ["Treinamento no auditório para o musical de 'Torto Arado'! - 5° horário"],
     atividades: []
   },
 
@@ -265,7 +277,7 @@ const agenda = {
 
   "2026-07-20": {
     eventos: [],
-    trabalhos: ["Data de entrega do Padlet de Humanas!"],
+    trabalhos: ["Data de entrega do Padlet de Humanas!", "Apresentação da empresa de Exatas!"],
     atividades: []
   },
 
@@ -275,7 +287,26 @@ const agenda = {
     atividades: []
   },
 
+  "2026-07-22": {
+    eventos: [],
+    trabalhos: ["2° Etapa de Humanas (Estudo de caso) - 3° horário!", "Treinamento no auditório para o musical de 'Torto Arado'! - 5° horário"],
+    atividades: []
+  },
+
+   "2026-07-29": {
+    eventos: [],
+    trabalhos: ["Último treinamento no auditório para o musical de 'Torto Arado'! - 5° horário"],
+    atividades: []
+  },
+
   //////////// AGOSTO ////////////
+
+   "2026-08-05": {
+    eventos: [],
+    trabalhos: ["Treinamento Geral no auditório para o musical de 'Torto Arado'! - 5° horário"],
+    atividades: []
+  },
+
   "2026-08-07": {
     eventos: ["Processo seletivo de bolsas da I.C"],
     trabalhos: [],
@@ -290,7 +321,7 @@ const agenda = {
 
   "2026-08-12": {
     eventos: ["Jogos escolares da rede SESI!"],
-    trabalhos: [],
+    trabalhos: ["Treinamento Geral no auditório para o musical de 'Torto Arado'! - 5° horário"],
     atividades: []
   },
 
