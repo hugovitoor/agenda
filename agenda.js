@@ -236,7 +236,7 @@ const agenda = {
   "2026-07-08": {
     eventos: [],
     trabalhos: ["Confecção do padlet de humanas na sala de informática - 3° horário", "Treinamento no auditório para o musical de 'Torto Arado'! - 5° horário"],
-    atividades: ["Cul. Di. - caderno", "Filosofia - caderno"]
+    atividades: ["Cul. Di. - caderno", "Filosofia - caderno", "Divul. Cien. - Planilha de artigos"]
   },
 
   "2026-07-09": {
@@ -248,7 +248,7 @@ const agenda = {
   "2026-07-10": {
     eventos: ["Recuperação Paralela de Linguagens"],
     trabalhos: [],
-    atividades: ["Ptext - NC(2), páginas 28 e 29", "Sociologia - Humanas(6), página 65"]
+    atividades: ["Ptext - NC(2), páginas 28 e 29", "Sociologia - Humanas(6), página 65", "LP - Linguagens(6), páginas 84, 85 e 86", "LP - Pesquisar sobre orações subordinadas (conceitos, classificações e exemplos)"]
   },
 
   "2026-07-13": {
