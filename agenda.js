@@ -242,13 +242,13 @@ const agenda = {
   "2026-07-09": {
     eventos: ["Recuperação Paralela de Naturezas"],
     trabalhos: ["Apresentação do Coletivo de Arte - Infográfico"],
-    atividades: ["Temas Contemporâneos - resenha crítica do 'Que horas ela volta?'", "IC e Projetos - Planilha sobre Artigo Científico para leonardo.ribeiro@escolasesiba.com.br"]
+    atividades: ["IC e Projetos - Planilha sobre Artigo Científico para leonardo.ribeiro@escolasesiba.com.br"]
   },
 
   "2026-07-10": {
     eventos: ["Recuperação Paralela de Linguagens"],
-    trabalhos: [],
-    atividades: ["Ptext - NC(2), páginas 28 e 29", "Sociologia - Humanas(6), página 65", "LP - Linguagens(6), páginas 84, 85 e 86", "LP - Pesquisar sobre orações subordinadas (conceitos, classificações e exemplos)"]
+    trabalhos: ["Itinerário Formativo - Entregar a planilha dos artigos pronta"],
+    atividades: ["Ptext - NC(2), páginas 28 e 29", "Sociologia - Humanas(6), página 65", "LP - Linguagens(6), páginas 84, 85 e 86", "LP - Pesquisar sobre orações subordinadas (conceitos, classificações e exemplos)", "I.C e Projetos - IF(3), página 22"]
   },
 
   "2026-07-13": {
@@ -265,8 +265,14 @@ const agenda = {
 
    "2026-07-15": {
     eventos: [],
-    trabalhos: ["Treinamento no auditório para o musical de 'Torto Arado'! - 5° horário"],
-    atividades: []
+    trabalhos: ["Treinamento no auditório para o musical de 'Torto Arado'! - 5° horário", "Itinerário Formativo - Fichamento manuscrito do artigo selecionado para a aula de Cultura Digital"],
+    atividades: ["EngFAll - NC(3), páginas 44 até 47"]
+  },
+
+   "2026-07-16": {
+    eventos: [],
+    trabalhos: [],
+    atividades: ["Temas Contemporâneos - resenha crítica manuscrita do filme 'Que horas ela volta?'"]
   },
 
   "2026-07-17": {
