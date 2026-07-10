@@ -248,7 +248,7 @@ const agenda = {
   "2026-07-10": {
     eventos: ["Recuperação Paralela de Linguagens"],
     trabalhos: ["Itinerário Formativo - Entregar a planilha dos artigos pronta"],
-    atividades: ["Ptext - NC(2), páginas 28 e 29", "Sociologia - Humanas(6), página 65", "LP - Linguagens(6), páginas 84, 85 e 86", "LP - Pesquisar sobre orações subordinadas (conceitos, classificações e exemplos)", "I.C e Projetos - IF(3), página 22"]
+    atividades: ["Ptext - NC(2), páginas 28 e 29", "Sociologia - Humanas(6), página 65", "LP - Linguagens(6), páginas 84, 85 e 86", "LP - Pesquisar sobre orações subordinadas substantivas (conceitos, classificações e exemplos)", "I.C e Projetos - IF(3), página 22"]
   },
 
   "2026-07-13": {
