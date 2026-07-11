@@ -260,7 +260,7 @@ const agenda = {
   "2026-07-14": {
     eventos: ["Recuperação Paralela de Exatas"],
     trabalhos: ["Segunda etapa da AV1 de PV!"],
-    atividades: []
+    atividades: ["LP - Linguagens(6), páginas 90 a 92"]
   },
 
    "2026-07-15": {
@@ -278,7 +278,7 @@ const agenda = {
   "2026-07-17": {
     eventos: [],
     trabalhos: ["Última data de entrega da AV1 de Redação!"],
-    atividades: []
+    atividades: ["PText - Caderno"]
   },
 
   "2026-07-20": {
