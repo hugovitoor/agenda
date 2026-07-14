@@ -251,12 +251,6 @@ const agenda = {
     atividades: ["Ptext - NC(2), páginas 28 e 29", "Sociologia - Humanas(6), página 65", "LP - Linguagens(6), páginas 84, 85 e 86", "LP - Pesquisar sobre orações subordinadas substantivas (conceitos, classificações e exemplos)", "I.C e Projetos - IF(3), página 22"]
   },
 
-  "2026-07-13": {
-    eventos: ["Recuperação Paralela de Humanas"],
-    trabalhos: [],
-    atividades: []
-  },
-
   "2026-07-14": {
     eventos: ["Recuperação Paralela de Exatas"],
     trabalhos: ["Segunda etapa da AV1 de PV!"],
@@ -264,7 +258,7 @@ const agenda = {
   },
 
    "2026-07-15": {
-    eventos: [],
+    eventos: ["Recuperação Paralela de Humanas"],
     trabalhos: ["Treinamento no auditório para o musical de 'Torto Arado'! - 5° horário", "Itinerário Formativo - Fichamento manuscrito do artigo selecionado para a aula de Cultura Digital"],
     atividades: ["EngFAll - NC(3), páginas 44 até 47"]
   },
@@ -278,7 +272,7 @@ const agenda = {
   "2026-07-17": {
     eventos: [],
     trabalhos: ["Última data de entrega da AV1 de Redação!"],
-    atividades: ["PText - Caderno"]
+    atividades: ["PText - Caderno", "Matemática - Exatas(6), páginas 17 a 20", "LP - Linguagens(6), páginas 90 a 92", "LP - Atividade xerografada"]
   },
 
   "2026-07-20": {
@@ -290,7 +284,7 @@ const agenda = {
   "2026-07-21": {
     eventos: [],
     trabalhos: ["Apresentação da AV2 de PV!"],
-    atividades: []
+    atividades: ["Geo - Humanas(6), páginas 84 e 89"]
   },
 
   "2026-07-22": {
