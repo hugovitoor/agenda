@@ -265,7 +265,7 @@ const agenda = {
 
    "2026-07-16": {
     eventos: [],
-    trabalhos: [],
+    trabalhos: ["Itinerário Formativo - Fichamento manuscrito do artigo selecionado para a aula de Cultura Digital"],
     atividades: ["Temas Contemporâneos - resenha crítica manuscrita do filme 'Que horas ela volta?'"]
   },
 
@@ -277,8 +277,8 @@ const agenda = {
 
   "2026-07-20": {
     eventos: [],
-    trabalhos: ["Data de entrega do Padlet de Humanas!", "Apresentação da empresa de Exatas!"],
-    atividades: []
+    trabalhos: ["Data de entrega do Padlet de Humanas!", "Química - Aula prática na próxima aula no Laboratório sobre cinética química (fatores que alteram a velocidade das reações)"],
+    atividades: ["Inglês - Linguagens(7), página 12 (Faça você mesmo)"]
   },
 
   "2026-07-21": {
@@ -289,7 +289,7 @@ const agenda = {
 
   "2026-07-22": {
     eventos: [],
-    trabalhos: ["2° Etapa de Humanas (Estudo de caso) - 3° horário!", "Treinamento no auditório para o musical de 'Torto Arado'! - 5° horário"],
+    trabalhos: ["Treinamento no auditório para o musical de 'Torto Arado'! - 5° horário", "Química - Prova na Sala Temática de Naturezas sobre a aula prática", "Humanas - Estudo de caso sobre os capítulos 3 e 4 do módulo 6  no 3° horário"],
     atividades: []
   },
 

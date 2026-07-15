@@ -181,7 +181,11 @@ function atualizarBotoes() {
 
 // 📋 info
 function mostrarInfo(data) {
-  const info = agenda[data];
+  const info = agenda[data] || {
+    eventos: [],
+    trabalhos: [],
+    atividades: []
+  };
 
   const [ano, mes, dia] = data.split("-");
 
@@ -194,20 +198,46 @@ function mostrarInfo(data) {
   document.getElementById("dataSelecionada").textContent =
     `${parseInt(dia)} de ${meses[parseInt(mes) - 1]}`;
 
-  document.getElementById("eventos").innerHTML =
-    info && info.eventos.length
-      ? info.eventos.map(e => `• ${e}`).join("<br>")
-      : "Nenhum evento para esse dia ;(";
+  const secoes = [
+    {
+      classe: ".eventos",
+      id: "eventos",
+      dados: info.eventos
+    },
+    {
+      classe: ".trabalhos",
+      id: "trabalhos",
+      dados: info.trabalhos
+    },
+    {
+      classe: ".atividades",
+      id: "atividades",
+      dados: info.atividades
+    }
+  ];
 
-  document.getElementById("trabalhos").innerHTML =
-    info && info.trabalhos.length
-      ? info.trabalhos.map(t => `• ${t}`).join("<br>")
-      : "Nenhum trabalho para esse dia :D";
+  secoes.forEach(secao => {
+    const card = document.querySelector(secao.classe);
+    const conteudo = document.getElementById(secao.id);
 
-  document.getElementById("atividades").innerHTML =
-    info && info.atividades.length
-      ? info.atividades.map(a => `• ${a}`).join("<br>")
-      : "Nenhuma atividade para esse dia :)";
+    if (secao.dados.length > 0) {
+      card.style.display = "block";
+      conteudo.innerHTML = secao.dados
+        .map(item => `• ${item}`)
+        .join("<br>");
+    } else {
+      card.style.display = "none";
+    }
+  });
+
+  if (
+  info.eventos.length === 0 &&
+  info.trabalhos.length === 0 &&
+  info.atividades.length === 0
+) {
+  document.getElementById("dataSelecionada").textContent +=
+    " - Sem eventos, trabalhos ou atividades!";
+}
 }
 
 gerarCalendario();
