@@ -258,7 +258,7 @@ const agenda = {
   },
 
    "2026-07-15": {
-    eventos: ["Recuperação Paralela de Humanas"],
+    eventos: ["Recuperação Paralela de Humanas", "Abertura das inscrições para bolsista de Iniciação Científica!"],
     trabalhos: ["Treinamento no auditório para o musical de 'Torto Arado'! - 5° horário", "Itinerário Formativo - Fichamento manuscrito do artigo selecionado para a aula de Cultura Digital"],
     atividades: ["EngFAll - NC(3), páginas 44 até 47"]
   },
@@ -278,7 +278,7 @@ const agenda = {
   "2026-07-20": {
     eventos: [],
     trabalhos: ["Data de entrega do Padlet de Humanas!", "Química - Aula prática na próxima aula no Laboratório sobre cinética química (fatores que alteram a velocidade das reações)"],
-    atividades: ["Inglês - Linguagens(7), página 12 (Faça você mesmo)"]
+    atividades: ["Inglês - Linguagens(7), página 12 (Faça você mesmo) e 16 (Questão 4, letras 'a' e 'b')"]
   },
 
   "2026-07-21": {
@@ -296,6 +296,12 @@ const agenda = {
    "2026-07-29": {
     eventos: [],
     trabalhos: ["Último treinamento no auditório para o musical de 'Torto Arado'! - 5° horário"],
+    atividades: []
+  },
+
+  "2026-07-31": {
+    eventos: ["Fim das inscrições para bolsista de Iniciação Científica!"],
+    trabalhos: [],
     atividades: []
   },
 
