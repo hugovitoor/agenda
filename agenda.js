@@ -272,24 +272,30 @@ const agenda = {
   "2026-07-17": {
     eventos: [],
     trabalhos: ["Última data de entrega da AV1 de Redação!"],
-    atividades: ["PText - Caderno", "Matemática - Exatas(6), páginas 17 a 20", "LP - Linguagens(6), páginas 90 a 92", "LP - Atividade xerografada"]
+    atividades: ["PText - Caderno", "Matemática - Exatas(6), páginas 17 a 20", "LP - Linguagens(6), páginas 90 a 92", "LP - Atividade xerografada", "I.C e Projetos - 4 problemas e resoluções de cada problema acerca do tema 'Ciência, sáude e qualidade de vida na sociedade moderna'"]
   },
 
   "2026-07-20": {
     eventos: [],
     trabalhos: ["Data de entrega do Padlet de Humanas!", "Química - Aula prática na próxima aula no Laboratório sobre cinética química (fatores que alteram a velocidade das reações)"],
-    atividades: ["Inglês - Linguagens(7), página 12 (Faça você mesmo) e 16 (Questão 4, letras 'a' e 'b')"]
+    atividades: ["Inglês - Linguagens(7), página 12 (Faça você mesmo) e 16 (Questão 4, letras 'a' e 'b')", "História - Humanas(6), página 92"]
   },
 
   "2026-07-21": {
     eventos: [],
-    trabalhos: ["Apresentação da AV2 de PV!"],
+    trabalhos: ["Apresentação da AV2 de PV!", "Itinerário Formativo - Escolha de 2 artigos fichados para defesa em sala"],
     atividades: ["Geo - Humanas(6), páginas 84 e 89"]
   },
 
   "2026-07-22": {
     eventos: [],
     trabalhos: ["Treinamento no auditório para o musical de 'Torto Arado'! - 5° horário", "Química - Prova na Sala Temática de Naturezas sobre a aula prática", "Humanas - Estudo de caso sobre os capítulos 3 e 4 do módulo 6  no 3° horário"],
+    atividades: []
+  },
+
+  "2026-07-23": {
+    eventos: [],
+    trabalhos: ["Treinamento no auditório para o musical de 'Torto Arado'! - 1° horário"],
     atividades: []
   },
 
@@ -316,7 +322,7 @@ const agenda = {
   "2026-08-07": {
     eventos: ["Processo seletivo de bolsas da I.C"],
     trabalhos: [],
-    atividades: []
+    atividades: ["I.C e Projetos - IF(3), capítulo 3 e 4 com todas as atividades completas"]
   },
 
   "2026-08-11": {
