@@ -277,14 +277,14 @@ const agenda = {
 
   "2026-07-20": {
     eventos: [],
-    trabalhos: ["Data de entrega do Padlet de Humanas!", "Química - Aula prática na próxima aula no Laboratório sobre cinética química (fatores que alteram a velocidade das reações)"],
-    atividades: ["Inglês - Linguagens(7), página 12 (Faça você mesmo) e 16 (Questão 4, letras 'a' e 'b')", "História - Humanas(6), página 92"]
+    trabalhos: ["Data de entrega do Padlet de Humanas!", "Química - Aula prática no Laboratório sobre cinética química (fatores que alteram a velocidade das reações)"],
+    atividades: ["Inglês - Linguagens(7), página 12 (Faça você mesmo) e 16 (Questão 4, letras 'a' e 'b')", "História - Humanas(6), página 92", "Biologia - Naturezas(7), páginas 13 a 15"]
   },
 
   "2026-07-21": {
     eventos: [],
     trabalhos: ["Apresentação da AV2 de PV!", "Itinerário Formativo - Escolha de 2 artigos fichados para defesa em sala"],
-    atividades: ["Geo - Humanas(6), páginas 84 e 89"]
+    atividades: ["Geo - Humanas(6), páginas 84 e 89", "LP - Pesquisar características do gênero 'crônica esportiva'", "LP - Trazer, por equipe, uma crônica esportiva impressa"]
   },
 
   "2026-07-22": {
@@ -296,7 +296,13 @@ const agenda = {
   "2026-07-23": {
     eventos: [],
     trabalhos: ["Treinamento no auditório para o musical de 'Torto Arado'! - 1° horário"],
-    atividades: []
+    atividades: ["I.C e Projetos - 4 problemas e resoluções de cada problema acerca do tema 'Ciência, sáude e qualidade de vida na sociedade moderna'"]
+  },
+
+  "2026-07-23": {
+    eventos: [],
+    trabalhos: [],
+    atividades: ["Ptext - NC(3), páginas 9 e 10"]
   },
 
    "2026-07-29": {
