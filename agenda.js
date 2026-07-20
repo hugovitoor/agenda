@@ -229,7 +229,7 @@ const agenda = {
 
   "2026-07-07": {
     eventos: ["Data de inscrição da Recuperação Paralela"],
-    trabalhos: ["Primeira etapa da AV1 de PV!"],
+    trabalhos: [],
     atividades: ["Geo - Humanas(6), página 68", "LP - Linguagens(6), página 85", "LP - caderno", "Geo - caderno"]
   },
 
@@ -253,7 +253,7 @@ const agenda = {
 
   "2026-07-14": {
     eventos: ["Recuperação Paralela de Exatas"],
-    trabalhos: ["Segunda etapa da AV1 de PV!"],
+    trabalhos: [],
     atividades: ["LP - Linguagens(6), páginas 90 a 92"]
   },
 
@@ -283,7 +283,7 @@ const agenda = {
 
   "2026-07-21": {
     eventos: [],
-    trabalhos: ["Apresentação da AV2 de PV!", "Itinerário Formativo - Escolha de 2 artigos fichados para defesa em sala"],
+    trabalhos: ["Primeira etapa da AV1 de PV!", "Itinerário Formativo - Escolha de 2 artigos fichados para defesa em sala"],
     atividades: ["Geo - Humanas(6), páginas 84 e 89", "LP - Pesquisar características do gênero 'crônica esportiva'", "LP - Trazer, por equipe, uma crônica esportiva impressa"]
   },
 
@@ -299,7 +299,7 @@ const agenda = {
     atividades: ["I.C e Projetos - 4 problemas e resoluções de cada problema acerca do tema 'Ciência, sáude e qualidade de vida na sociedade moderna'"]
   },
 
-  "2026-07-23": {
+  "2026-07-24": {
     eventos: [],
     trabalhos: [],
     atividades: ["Ptext - NC(3), páginas 9 e 10"]
@@ -309,6 +309,12 @@ const agenda = {
     eventos: [],
     trabalhos: [],
     atividades: ["Inglês - Linguagens(7), página 16 (Questão 4)"]
+  },
+
+  "2026-07-28": {
+    eventos: [],
+    trabalhos: ["Segunda etapa da AV1 de PV!"],
+    atividades: []
   },
 
    "2026-07-29": {
@@ -325,7 +331,13 @@ const agenda = {
 
   //////////// AGOSTO ////////////
 
-   "2026-08-05": {
+  "2026-08-04": {
+    eventos: [],
+    trabalhos: ["Apresentação da AV2 de PV!"],
+    atividades: []
+  },
+
+  "2026-08-05": {
     eventos: [],
     trabalhos: ["Treinamento Geral no auditório para o musical de 'Torto Arado'! - 5° horário"],
     atividades: []
