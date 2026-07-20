@@ -305,6 +305,12 @@ const agenda = {
     atividades: ["Ptext - NC(3), páginas 9 e 10"]
   },
 
+  "2026-07-27": {
+    eventos: [],
+    trabalhos: [],
+    atividades: ["Inglês - Linguagens(7), página 16 (Questão 4)"]
+  },
+
    "2026-07-29": {
     eventos: [],
     trabalhos: ["Último treinamento no auditório para o musical de 'Torto Arado'! - 5° horário"],
