@@ -290,7 +290,7 @@ const agenda = {
   "2026-07-22": {
     eventos: [],
     trabalhos: ["Treinamento no auditório para o musical de 'Torto Arado'! - 5° horário", "Química - Prova na Sala Temática de Naturezas sobre a aula prática", "Humanas - Estudo de caso sobre os capítulos 3 e 4 do módulo 6  no 3° horário"],
-    atividades: []
+    atividades: ["Divul. Cient. - IF(2), páginas 116, 117, 119, 123 e 124"]
   },
 
   "2026-07-23": {
@@ -302,7 +302,7 @@ const agenda = {
   "2026-07-24": {
     eventos: [],
     trabalhos: [],
-    atividades: ["Ptext - NC(3), páginas 9 e 10"]
+    atividades: ["Ptext - NC(3), páginas 9 e 10", "LP - Linguagens(7), página 26 (Faça Você Mesmo)", "Treinamento no auditório para o musical de 'Torto Arado'! - 1° horário", "Matemática - Exatas(7), página 27 (Questões 1 e 2)"]
   },
 
   "2026-07-27": {
@@ -313,7 +313,7 @@ const agenda = {
 
   "2026-07-28": {
     eventos: [],
-    trabalhos: ["Segunda etapa da AV1 de PV!"],
+    trabalhos: ["Segunda etapa da AV1 de PV!", "Física - Aula prática na Sala Temática sobre óptica geométrica", "Geo - Humanas(7), páginas 34 e 35"],
     atividades: []
   },
 
@@ -330,6 +330,12 @@ const agenda = {
   },
 
   //////////// AGOSTO ////////////
+
+  "2026-08-03": {
+    eventos: [],
+    trabalhos: ["Abertura da AV2 de Redação!"],
+    atividades: []
+  },
 
   "2026-08-04": {
     eventos: [],
@@ -369,7 +375,7 @@ const agenda = {
 
   "2026-08-14": {
     eventos: ["Jogos escolares da rede SESI!"],
-    trabalhos: [],
+    trabalhos: ["Última data de entrega da AV2 de Redação!"],
     atividades: []
   },
 
