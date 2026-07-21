@@ -301,8 +301,8 @@ const agenda = {
 
   "2026-07-24": {
     eventos: [],
-    trabalhos: [],
-    atividades: ["Ptext - NC(3), páginas 9 e 10", "LP - Linguagens(7), página 26 (Faça Você Mesmo)", "Treinamento no auditório para o musical de 'Torto Arado'! - 1° horário", "Matemática - Exatas(7), página 27 (Questões 1 e 2)"]
+    trabalhos: ["Treinamento no auditório para o musical de 'Torto Arado'! - 1° horário"],
+    atividades: ["Ptext - NC(3), páginas 9 e 10", "LP - Linguagens(7), página 26 (Faça Você Mesmo)", "Matemática - Exatas(7), página 27 (Questões 1 e 2)"]
   },
 
   "2026-07-27": {
@@ -313,8 +313,8 @@ const agenda = {
 
   "2026-07-28": {
     eventos: [],
-    trabalhos: ["Segunda etapa da AV1 de PV!", "Física - Aula prática na Sala Temática sobre óptica geométrica", "Geo - Humanas(7), páginas 34 e 35"],
-    atividades: []
+    trabalhos: ["Segunda etapa da AV1 de PV!", "Física - Aula prática na Sala Temática sobre óptica geométrica"],
+    atividades: ["Geo - Humanas(7), páginas 34 e 35"]
   },
 
    "2026-07-29": {
