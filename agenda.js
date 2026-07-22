@@ -320,7 +320,7 @@ const agenda = {
    "2026-07-29": {
     eventos: [],
     trabalhos: ["Último treinamento no auditório para o musical de 'Torto Arado'! - 5° horário"],
-    atividades: []
+    atividades: ["Ed. Física - Linguagens(7), páginas 36 a 38 e 45 a 49"]
   },
 
   "2026-07-31": {
