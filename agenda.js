@@ -307,8 +307,8 @@ const agenda = {
 
   "2026-07-27": {
     eventos: [],
-    trabalhos: [],
-    atividades: ["Inglês - Linguagens(7), página 16 (Questão 4)"]
+    trabalhos: ["Matemática - Apresentação das empresas das equipes 1 a 4", "Biologia - Aula prática no Laboratório sobre sistema digestivo"],
+    atividades: ["Inglês - Linguagens(7), página 16 (Questão 4)", "Matemática - Exatas(7), páginas 27 a 30", "Biologia - CN(7), páginas 22, 24, 30 e 31"]
   },
 
   "2026-07-28": {
@@ -351,7 +351,7 @@ const agenda = {
 
   "2026-08-07": {
     eventos: ["Processo seletivo de bolsas da I.C"],
-    trabalhos: [],
+    trabalhos: ["Itinerário Formativo - Última data de entrega do projeto e banner"],
     atividades: ["I.C e Projetos - IF(3), capítulo 3 e 4 com todas as atividades completas"]
   },
 
