@@ -283,7 +283,7 @@ const agenda = {
 
   "2026-07-21": {
     eventos: [],
-    trabalhos: ["Primeira etapa da AV1 de PV!", "Itinerário Formativo - Escolha de 2 artigos fichados para defesa em sala"],
+    trabalhos: ["Itinerário Formativo - Escolha de 2 artigos fichados para defesa em sala"],
     atividades: ["Geo - Humanas(6), páginas 84 e 89", "LP - Pesquisar características do gênero 'crônica esportiva'", "LP - Trazer, por equipe, uma crônica esportiva impressa"]
   },
 
@@ -313,7 +313,7 @@ const agenda = {
 
   "2026-07-28": {
     eventos: [],
-    trabalhos: ["Segunda etapa da AV1 de PV!", "Física - Aula prática na Sala Temática sobre óptica geométrica"],
+    trabalhos: ["Prova socioeconômica da AV1 de PV!", "Física - Aula prática na Sala Temática sobre óptica geométrica"],
     atividades: ["Geo - Humanas(7), páginas 34 e 35"]
   },
 
@@ -323,9 +323,15 @@ const agenda = {
     atividades: ["Ed. Física - Linguagens(7), páginas 36 a 38 e 45 a 49"]
   },
 
+  "2026-07-30": {
+    eventos: [],
+    trabalhos: ["Treinamento no auditório para o musical de 'Torto Arado'! - 1° horário", "Física - Aula teórica na Sala Temática sobre óptica geométrica"],
+    atividades: []
+  },
+
   "2026-07-31": {
     eventos: ["Fim das inscrições para bolsista de Iniciação Científica!"],
-    trabalhos: [],
+    trabalhos: ["Matemática - Apresentação das empresas das equipes 2 e 7"],
     atividades: []
   },
 
@@ -334,12 +340,12 @@ const agenda = {
   "2026-08-03": {
     eventos: [],
     trabalhos: ["Abertura da AV2 de Redação!"],
-    atividades: []
+    atividades: ["Inglês - Linguagens(7), páginas 12, 16(questão 4) e 43"]
   },
 
   "2026-08-04": {
     eventos: [],
-    trabalhos: ["Apresentação da AV2 de PV!"],
+    trabalhos: ["Apresentação da AV2 de PV!", "Linguagens - Entregar no dia 4.8 das pulseiras do teatro"],
     atividades: []
   },
 
