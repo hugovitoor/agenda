@@ -404,7 +404,7 @@ const agenda = {
   },
 
   "2026-08-24": {
-    eventos: ["Aniversário de Vitor Gabriel!", "Semana de AV3 do II Trimestre"],
+    eventos: ["Aniversário de Vitor Gabriel!", "Aniversário de Mota!", "Semana de AV3 do II Trimestre"],
     trabalhos: [],
     atividades: []
   },
@@ -434,7 +434,7 @@ const agenda = {
   },
 
   "2026-08-29": {
-    eventos: ["Aniversário de Breno!", "Aniversário de Mota!"],
+    eventos: ["Aniversário de Breno!"],
     trabalhos: [],
     atividades: []
   },
