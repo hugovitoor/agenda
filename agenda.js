@@ -331,7 +331,7 @@ const agenda = {
 
   "2026-07-31": {
     eventos: ["Fim das inscrições para bolsista de Iniciação Científica!"],
-    trabalhos: ["Matemática - Apresentação das empresas das equipes 2 e 7"],
+    trabalhos: ["Matemática - Apresentação das empresas das equipes 2 e 7", "Biologia - Prova na Sala Temática de Naturezas sobre a aula prática"],
     atividades: []
   },
 
@@ -346,7 +346,7 @@ const agenda = {
   "2026-08-04": {
     eventos: [],
     trabalhos: ["Apresentação da AV2 de PV!", "Linguagens - Entregar no dia 4.8 das pulseiras do teatro"],
-    atividades: []
+    atividades: ["EngFAll - NC(3), páginas 37, 39, 40 a 42, 44 a 47, 49, 51, 52 e 54"]
   },
 
   "2026-08-05": {
