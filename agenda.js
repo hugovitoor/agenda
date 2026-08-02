@@ -346,19 +346,19 @@ const agenda = {
   "2026-08-04": {
     eventos: [],
     trabalhos: ["Apresentação da AV2 de PV!", "Linguagens - Entregar no dia 4.8 das pulseiras do teatro"],
-    atividades: ["EngFAll - NC(3), páginas 37, 39, 40 a 42, 44 a 47, 49, 51, 52 e 54"]
+    atividades: ["LP - Atividade impressa"]
   },
 
   "2026-08-05": {
     eventos: [],
     trabalhos: ["Treinamento Geral no auditório para o musical de 'Torto Arado'! - 5° horário"],
-    atividades: []
+    atividades: ["EngFAll - NC(3), páginas 37, 39, 40 a 42, 44 a 47, 49, 51, 52 e 54"]
   },
 
   "2026-08-07": {
     eventos: ["Processo seletivo de bolsas da I.C"],
     trabalhos: ["Itinerário Formativo - Última data de entrega do projeto e banner"],
-    atividades: ["I.C e Projetos - IF(3), capítulo 3 e 4 com todas as atividades completas"]
+    atividades: ["Ptext - NC(3), páginas 17, 18 e 21"]
   },
 
   "2026-08-11": {
@@ -376,7 +376,7 @@ const agenda = {
   "2026-08-13": {
     eventos: ["Jogos escolares da rede SESI!"],
     trabalhos: [],
-    atividades: []
+    atividades: ["I.C e Projetos - IF(3), capítulo 3 e 4 com todas as atividades completas"]
   },
 
   "2026-08-14": {
