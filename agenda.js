@@ -339,7 +339,7 @@ const agenda = {
 
   "2026-08-03": {
     eventos: [],
-    trabalhos: ["Abertura da AV2 de Redação!"],
+    trabalhos: [],
     atividades: ["Inglês - Linguagens(7), páginas 12, 16(questão 4) e 43"]
   },
 
@@ -358,13 +358,19 @@ const agenda = {
   "2026-08-07": {
     eventos: ["Processo seletivo de bolsas da I.C"],
     trabalhos: ["Itinerário Formativo - Última data de entrega do projeto e banner"],
-    atividades: ["Ptext - NC(3), páginas 17, 18 e 21"]
+    atividades: ["Ptext - NC(3), páginas 17, 18 e 21", "PText - Trazer repertórios para o tema 'Desafios para a democratização do acesso tecnológico no Brasil'"]
+  }, 
+
+  "2026-08-10": {
+    eventos: [],
+    trabalhos: ["Abertura da AV2 de Redação!"],
+    atividades: ["Inglês - gravar gameplay com 5 definições do jogo"]
   },
 
   "2026-08-11": {
     eventos: [],
-    trabalhos: ["Apresentação do jogo completo de PV!"],
-    atividades: []
+    trabalhos: ["Apresentação da AV2 de PV!", "Apresentação do jogo completo de PV!", "Teatro Musical - Última data de entrega da lista de materiais do cenário"],
+    atividades: ["Geo - Humanas(7), página 35 (Faça Você Mesmo)"]
   },
 
   "2026-08-12": {
@@ -381,13 +387,19 @@ const agenda = {
 
   "2026-08-14": {
     eventos: ["Jogos escolares da rede SESI!"],
-    trabalhos: ["Última data de entrega da AV2 de Redação!"],
+    trabalhos: [],
     atividades: []
   },
 
   "2026-08-15": {
     eventos: ["Jogos escolares da rede SESI!"],
     trabalhos: [],
+    atividades: []
+  },
+
+  "2026-08-17": {
+    eventos: [],
+    trabalhos: ["Última data de entrega da AV2 de Redação!"],
     atividades: []
   },
 
@@ -440,6 +452,24 @@ const agenda = {
   },
 
   //////////// SETEMBRO ////////////
+
+  "2026-09-01": {
+    eventos: ["MiniMun do CRI - 1° dia!"],
+    trabalhos: [],
+    atividades: []
+  },
+
+  "2026-09-02": {
+    eventos: ["MiniMun do CRI - 2° dia!"],
+    trabalhos: [],
+    atividades: []
+  },
+
+  "2026-09-03": {
+    eventos: ["MiniMun do CRI - 3° e último dia!"],
+    trabalhos: [],
+    atividades: []
+  },
 
   "2026-09-07": {
     eventos: ["Independência do Brasil! - Sem aula!"],
