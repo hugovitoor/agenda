@@ -364,7 +364,7 @@ const agenda = {
   "2026-08-10": {
     eventos: [],
     trabalhos: ["Abertura da AV2 de Redação!"],
-    atividades: ["Inglês - gravar gameplay com 5 definições do jogo"]
+    atividades: ["Inglês - gravar gameplay com 5 definições do jogo", "Inglês - Linguagens(7), página 78", "EngFAll - NC(3), páginas 36 a 38, 44, 50 58 e 60"]
   },
 
   "2026-08-11": {
@@ -375,20 +375,20 @@ const agenda = {
 
   "2026-08-12": {
     eventos: ["Jogos escolares da rede SESI!"],
-    trabalhos: ["Treinamento Geral no auditório para o musical de 'Torto Arado'! - 5° horário"],
-    atividades: []
+    trabalhos: ["Treinamento Geral no auditório para o musical de 'Torto Arado'! - 5° horário", "Itinerário Formativo - Apresentação dos projetos e banners das equipes 2, 5 e 7; e seus respctivos relatórios impressos"],
+    atividades: ["Filosofia - Mapa Conceitual"]
   },
 
   "2026-08-13": {
     eventos: ["Jogos escolares da rede SESI!"],
-    trabalhos: [],
-    atividades: ["I.C e Projetos - IF(3), capítulo 3 e 4 com todas as atividades completas"]
+    trabalhos: ["Itinerário Formativo - Apresentação dos projetos e banners das equipes 1,3, 4 e 6; e seus respctivos relatórios impressos"],
+    atividades: ["Temas Contemporâneos - Lista sobre alimentação"]
   },
 
   "2026-08-14": {
     eventos: ["Jogos escolares da rede SESI!"],
     trabalhos: [],
-    atividades: []
+    atividades: ["I.C e Projetos - IF(3), capítulo 3 e 4 com todas as atividades completas"]
   },
 
   "2026-08-15": {
