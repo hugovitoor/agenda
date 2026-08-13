@@ -369,7 +369,7 @@ const agenda = {
 
   "2026-08-11": {
     eventos: [],
-    trabalhos: ["Apresentação da AV2 de PV!", "Apresentação do jogo completo de PV!", "Teatro Musical - Última data de entrega da lista de materiais do cenário"],
+    trabalhos: ["Apresentação da AV2 de PV!", "Teatro Musical - Última data de entrega da lista de materiais do cenário"],
     atividades: ["Geo - Humanas(7), página 35 (Faça Você Mesmo)"]
   },
 
@@ -381,14 +381,14 @@ const agenda = {
 
   "2026-08-13": {
     eventos: ["Jogos escolares da rede SESI!"],
-    trabalhos: ["Itinerário Formativo - Apresentação dos projetos e banners das equipes 1,3, 4 e 6; e seus respctivos relatórios impressos"],
-    atividades: ["Temas Contemporâneos - Lista sobre alimentação"]
+    trabalhos: ["Itinerário Formativo - Apresentação dos projetos e banners das equipes 1, 3 e 4; e seus respctivos relatórios impressos"],
+    atividades: []
   },
 
   "2026-08-14": {
     eventos: ["Jogos escolares da rede SESI!"],
-    trabalhos: [],
-    atividades: ["I.C e Projetos - IF(3), capítulo 3 e 4 com todas as atividades completas"]
+    trabalhos: ["Itinerário Formativo - Apresentação do projeto e banner da equipe 6", "Itinerário Formativo - Última data de entrega do relatório de cada equipe"],
+    atividades: ["LP - Linguagens(7), páginas 55, 56 e 65", "LP - Pesquisa da comparação entre adjunto adverbial e adnominal", "PText - Escrever o Desenvolvimento 1 do tema da redação atual", "Biologia - Atividade impressa"]
   },
 
   "2026-08-15": {
@@ -405,8 +405,20 @@ const agenda = {
 
   "2026-08-18": {
     eventos: [],
-    trabalhos: ["Teatro Musical 'Torto Arado' - 2° horário!"],
+    trabalhos: ["Apresentação do jogo completo de PV!", "Teatro Musical 'Torto Arado' - 2° horário!"],
     atividades: []
+  },
+
+  "2026-08-19": {
+    eventos: [],
+    trabalhos: [],
+    atividades: ["Filosofia - Humanas(7), páginas 53 a 55, 75 a 79, 104 e 105", "Cul. Di. - IF(3), páginas 54, 55 e 64"]
+  },
+
+  "2026-08-20": {
+    eventos: [],
+    trabalhos: ["Cul. Di. - Todas as atividades do caderno e do livro completas (VALE UM PONTO!)", "Cul. Di. - Lista de Exercício (VALE UM PONTO!)"],
+    atividades: ["Temas Contemporâneos - Lista sobre alimentação","I.C e Projetos - IF(3), capítulo 3 e 4 com todas as atividades completas"]
   },
 
   "2026-08-22": {
@@ -416,31 +428,31 @@ const agenda = {
   },
 
   "2026-08-24": {
-    eventos: ["Aniversário de Vitor Gabriel!", "Aniversário de Mota!", "Semana de AV3 do II Trimestre"],
+    eventos: ["Aniversário de Vitor Gabriel!", "Aniversário de Mota!", "Semana de AV3 do II Trimestre - Prova de Ciências da Natureza"],
     trabalhos: [],
     atividades: []
   },
 
   "2026-08-25": {
-    eventos: ["Semana de AV3 do II Trimestre"],
+    eventos: ["Semana de AV3 do II Trimestre - Prova de Ciências Humanas"],
     trabalhos: [],
     atividades: []
   },
 
   "2026-08-26": {
-    eventos: ["Aniversário de Felipe!", "Semana de AV3 do II Trimestre"],
-    trabalhos: [],
+    eventos: ["Aniversário de Felipe!", "Semana de AV3 do II Trimestre - Prova de Matemática"],
+    trabalhos: ["Cul. Di - Formulário de avaliação (VALE QUATRO PONTOS!)"],
     atividades: []
   },
 
   "2026-08-27": {
-    eventos: ["Aniversário de Alex!", "Semana de AV3 do II Trimestre"],
+    eventos: ["Aniversário de Alex!", "Semana de AV3 do II Trimestre - Prova de Linguagens"],
     trabalhos: [],
     atividades: []
   },
 
   "2026-08-28": {
-    eventos: ["Semana de AV3 do II Trimestre"],
+    eventos: ["Semana de AV3 do II Trimestre - Prova de Produção Textual"],
     trabalhos: [],
     atividades: []
   },
