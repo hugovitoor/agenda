@@ -421,6 +421,12 @@ const agenda = {
     atividades: ["Temas Contemporâneos - Lista sobre alimentação","I.C e Projetos - IF(3), capítulo 3 e 4 com todas as atividades completas"]
   },
 
+  "2026-08-21": {
+    eventos: [],
+    trabalhos: [],
+    atividades: ["LP - Linguagens (7), páginas 103 e 104", "PText - NC(3), página 27"]
+  },
+
   "2026-08-22": {
     eventos: ["Aniversário de Lara!"],
     trabalhos: [],
