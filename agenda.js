@@ -424,7 +424,7 @@ const agenda = {
   "2026-08-21": {
     eventos: [],
     trabalhos: [],
-    atividades: ["LP - Linguagens (7), páginas 103 e 104", "PText - NC(3), página 27"]
+    atividades: ["LP - Linguagens (7), páginas 103 e 104", "PText - NC(3), página 27", "Biologia - Atividade impressa"]
   },
 
   "2026-08-22": {
@@ -434,25 +434,25 @@ const agenda = {
   },
 
   "2026-08-24": {
-    eventos: ["Aniversário de Vitor Gabriel!", "Aniversário de Mota!", "Semana de AV3 do II Trimestre - Prova de Ciências da Natureza"],
+    eventos: ["Aniversário de Vitor Gabriel!", "Aniversário de Mota!", "Semana de AV3 do II Trimestre - Prova de Ciências da Natureza, Iniciação Científica e Projetos e Divulgação Científica"],
     trabalhos: [],
     atividades: []
   },
 
   "2026-08-25": {
-    eventos: ["Semana de AV3 do II Trimestre - Prova de Ciências Humanas"],
+    eventos: ["Semana de AV3 do II Trimestre - Prova de Ciências Humanas e Temas Contemporâneos"],
     trabalhos: [],
     atividades: []
   },
 
   "2026-08-26": {
-    eventos: ["Aniversário de Felipe!", "Semana de AV3 do II Trimestre - Prova de Matemática"],
+    eventos: ["Aniversário de Felipe!", "Semana de AV3 do II Trimestre - Prova de Matemática e Cultura Digital"],
     trabalhos: ["Cul. Di - Formulário de avaliação (VALE QUATRO PONTOS!)"],
     atividades: []
   },
 
   "2026-08-27": {
-    eventos: ["Aniversário de Alex!", "Semana de AV3 do II Trimestre - Prova de Linguagens"],
+    eventos: ["Aniversário de Alex!", "Semana de AV3 do II Trimestre - Prova de Linguagens e English for All"],
     trabalhos: [],
     atividades: []
   },
