@@ -405,7 +405,7 @@ const agenda = {
 
   "2026-08-18": {
     eventos: [],
-    trabalhos: ["Apresentação do jogo completo de PV!", "Teatro Musical 'Torto Arado' - 2° horário!"],
+    trabalhos: ["Teatro Musical 'Torto Arado' - 2° horário!"],
     atividades: []
   },
 
@@ -434,7 +434,7 @@ const agenda = {
   },
 
   "2026-08-24": {
-    eventos: ["Aniversário de Vitor Gabriel!", "Aniversário de Mota!", "Semana de AV3 do II Trimestre - Prova de Ciências da Natureza, Iniciação Científica e Projetos e Divulgação Científica"],
+    eventos: ["Aniversário de Victor Gabriel!", "Aniversário de Mota!", "Semana de AV3 do II Trimestre - Prova de Ciências da Natureza, Iniciação Científica e Projetos e Divulgação Científica"],
     trabalhos: [],
     atividades: []
   },
@@ -452,20 +452,26 @@ const agenda = {
   },
 
   "2026-08-27": {
-    eventos: ["Aniversário de Alex!", "Semana de AV3 do II Trimestre - Prova de Linguagens e English for All"],
+    eventos: ["Aniversário de Alex!", "Semana de AV3 do II Trimestre - Prova de Linguagens e English for All", "1° Fase da ONC!"],
     trabalhos: [],
     atividades: []
   },
 
   "2026-08-28": {
-    eventos: ["Semana de AV3 do II Trimestre - Prova de Produção Textual"],
+    eventos: ["Semana de AV3 do II Trimestre - Prova de Produção Textual", "1° Fase da ONC!"],
     trabalhos: [],
     atividades: []
   },
 
   "2026-08-29": {
-    eventos: ["Aniversário de Breno!"],
+    eventos: ["Aniversário de Breno!", "Última data para realizar a 1° Fase da ONC!"],
     trabalhos: [],
+    atividades: []
+  },
+
+  "2026-08-31": {
+    eventos: [],
+    trabalhos: ["Última data de entrega da AV2 de Redação!"],
     atividades: []
   },
 
@@ -473,7 +479,7 @@ const agenda = {
 
   "2026-09-01": {
     eventos: ["MiniMun do CRI - 1° dia!"],
-    trabalhos: [],
+    trabalhos: ["Apresentação do jogo completo de PV!"],
     atividades: []
   },
 
@@ -491,6 +497,12 @@ const agenda = {
 
   "2026-09-07": {
     eventos: ["Independência do Brasil! - Sem aula!"],
+    trabalhos: [],
+    atividades: []
+  },
+
+  "2026-09-10": {
+    eventos: ["Classificados para a 2° Fase da ONC!"],
     trabalhos: [],
     atividades: []
   },
