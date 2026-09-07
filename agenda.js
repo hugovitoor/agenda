@@ -479,7 +479,7 @@ const agenda = {
 
   "2026-09-01": {
     eventos: ["MiniMun do CRI - 1° dia!"],
-    trabalhos: ["Apresentação do jogo completo de PV!"],
+    trabalhos: [],
     atividades: []
   },
 
@@ -501,8 +501,38 @@ const agenda = {
     atividades: []
   },
 
+  "2026-09-08": {
+    eventos: [],
+    trabalhos: ["Apresentação do jogo completo de PV!"],
+    atividades: ["LP - Pesquisa sobre 'Pronomes Relativos'(conceito, exemplos, onde/aonde, e cujo)", "LP - Linguagens(8), páginas 22 e 23"]
+  },
+
   "2026-09-10": {
     eventos: ["Classificados para a 2° Fase da ONC!"],
+    trabalhos: [],
+    atividades: []
+  },
+
+  "2026-09-11": {
+    eventos: [],
+    trabalhos: ["MOSTRA STEAM - Enviar o resumo expandido do projeto"],
+    atividades: ["PText - NC(4), páginas 9 e 10", "PText - Caderno"]
+  },
+
+  "2026-09-18": {
+    eventos: ["Última data dos desafios gamificados da 1° Fase da ONEE!"],
+    trabalhos: [],
+    atividades: []
+  },
+
+  "2026-09-21": {
+    eventos: ["Início da prova objetiva da 1° Fase da ONEE!"],
+    trabalhos: [],
+    atividades: []
+  },
+
+  "2026-09-25": {
+    eventos: ["Última data da prova objetiva da 1° Fase da ONEE!"],
     trabalhos: [],
     atividades: []
   },
