@@ -516,7 +516,7 @@ const agenda = {
   "2026-09-11": {
     eventos: [],
     trabalhos: ["MOSTRA STEAM - Enviar o resumo expandido do projeto"],
-    atividades: ["PText - NC(4), páginas 9 e 10", "PText - Caderno"]
+    atividades: ["PText - NC(4), páginas 9 e 10", "PText - Caderno", "LP - Pesquisa sobre Oração Subordinada Adjetiva (conceito, conectivo, classificação e exemplos)", "LP - Lista de Exercícios"]
   },
 
   "2026-09-18": {
