@@ -516,7 +516,25 @@ const agenda = {
   "2026-09-11": {
     eventos: [],
     trabalhos: ["MOSTRA STEAM - Enviar o resumo expandido do projeto"],
-    atividades: ["PText - NC(4), páginas 9 e 10", "PText - Caderno", "LP - Pesquisa sobre Oração Subordinada Adjetiva (conceito, conectivo, classificação e exemplos)", "LP - Lista de Exercícios"]
+    atividades: ["PText - NC(4), páginas 9 e 10", "PText - Caderno", "LP - Pesquisa sobre Oração Subordinada Adjetiva (conceito, conectivo, classificação e exemplos)", "LP - Lista de Exercícios", "Biologia - Caderno"]
+  },
+
+  "2026-09-15": {
+    eventos: [],
+    trabalhos: [],
+    atividades: ["Geo - Humanas(7), páginas 87, 88, 97 e 101", "Divul. Cient. - IF(4), páginas 94, 98, 99", "Divul. Cient. - Caderno (Resumo das páginas 89 a 97)"]
+  },
+
+  "2026-09-16": {
+    eventos: [],
+    trabalhos: [],
+    atividades: ["Cul. Di. - IF(4), página 53", "Filosofia - Caderno"]
+  },
+
+  "2026-09-17": {
+    eventos: [],
+    trabalhos: [],
+    atividades: ["Artes - Linguagens(7), páginas 88 e 89"]
   },
 
   "2026-09-18": {
