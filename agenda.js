@@ -521,12 +521,12 @@ const agenda = {
 
   "2026-09-15": {
     eventos: [],
-    trabalhos: [],
+    trabalhos: ["AV1 -Autoavaliação de Projeto de Vida"],
     atividades: ["Geo - Humanas(7), páginas 87, 88, 97 e 101", "Divul. Cient. - IF(4), páginas 94, 98, 99", "Divul. Cient. - Caderno (Resumo das páginas 89 a 97)"]
   },
 
   "2026-09-16": {
-    eventos: [],
+    eventos: ["Aula prática de Educação Física"],
     trabalhos: [],
     atividades: ["Cul. Di. - IF(4), página 53", "Filosofia - Caderno"]
   },
@@ -534,29 +534,59 @@ const agenda = {
   "2026-09-17": {
     eventos: [],
     trabalhos: [],
-    atividades: ["Artes - Linguagens(7), páginas 88 e 89"]
+    atividades: ["Artes - Linguagens(7), páginas 88 e 89", "História - Humanas(7), páginas 67 e 68"]
   },
 
   "2026-09-18": {
-    eventos: ["Última data dos desafios gamificados da 1° Fase da ONEE!"],
+    eventos: ["Última data dos desafios gamificados da 1° Fase da ONEE, até às 22h!"],
     trabalhos: [],
     atividades: []
   },
 
   "2026-09-21": {
-    eventos: ["Início da prova objetiva da 1° Fase da ONEE!"],
+    eventos: ["Início da prova objetiva da 1° Fase da ONEE!", "Recuperação Paralela de Ciências da Natureza, IC e Projetos e Divulgação Científica"],
+    trabalhos: [],
+    atividades: []
+  },
+
+  "2026-09-22": {
+    eventos: ["Recuperação Paralela de Ciências Humanas, Temas Contemporâneos e Projeto de Vida"],
+    trabalhos: [],
+    atividades: []
+  },
+
+  "2026-09-23": {
+    eventos: ["Aula prática de Educação Física", "Recuperação Paralela de Matemática e Cultura Digital"],
+    trabalhos: [],
+    atividades: []
+  },
+
+  "2026-09-24": {
+    eventos: ["Recuperação Paralela de Linguagens e English For All"],
     trabalhos: [],
     atividades: []
   },
 
   "2026-09-25": {
-    eventos: ["Última data da prova objetiva da 1° Fase da ONEE!"],
+    eventos: ["Última data da prova objetiva da 1° Fase da ONEE!", "Recuperação Paralela de Produção Textual"],
     trabalhos: [],
     atividades: []
   },
 
   "2026-09-28": {
     eventos: ["Aniversário de Vitor Hugo!"],
+    trabalhos: [],
+    atividades: []
+  },
+
+  "2026-09-29": {
+    eventos: [],
+    trabalhos: ["AV3 de Projeto de Vida"],
+    atividades: []
+  },
+
+  "2026-09-30": {
+    eventos: ["Aula prática de Educação Física"],
     trabalhos: [],
     atividades: []
   },
