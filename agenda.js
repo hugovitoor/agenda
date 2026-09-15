@@ -540,7 +540,7 @@ const agenda = {
   "2026-09-18": {
     eventos: ["Última data dos desafios gamificados da 1° Fase da ONEE, até às 22h!"],
     trabalhos: [],
-    atividades: []
+    atividades: ["PText - Caderno"]
   },
 
   "2026-09-21": {
