@@ -552,25 +552,25 @@ const agenda = {
   "2026-09-22": {
     eventos: ["Recuperação Paralela de Ciências Humanas, Temas Contemporâneos e Projeto de Vida"],
     trabalhos: [],
-    atividades: []
+    atividades: ["LP - Pesquisa sobre literatura clásssica X popular"]
   },
 
   "2026-09-23": {
     eventos: ["Aula prática de Educação Física", "Recuperação Paralela de Matemática e Cultura Digital"],
     trabalhos: [],
-    atividades: []
+    atividades: ["Temas Contemporâneos - Último dia p/enviar arte digital para o teams de Larissa"]
   },
 
   "2026-09-24": {
     eventos: ["Recuperação Paralela de Linguagens e English For All"],
     trabalhos: [],
-    atividades: []
+    atividades: ["Artes - Caderno"]
   },
 
   "2026-09-25": {
-    eventos: ["Última data da prova objetiva da 1° Fase da ONEE!", "Recuperação Paralela de Produção Textual"],
+    eventos: ["Última data da prova objetiva da 1° Fase da ONEE!", "Recuperação Paralela de Produção Textual", "Encontro: Cuidar de Quem Cuida"],
     trabalhos: [],
-    atividades: []
+    atividades: ["PText - Pesquisar 3 repertórios socioculturais para o tema da redação atual"]
   },
 
   "2026-09-28": {
