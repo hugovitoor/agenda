@@ -544,9 +544,9 @@ const agenda = {
   },
 
   "2026-09-21": {
-    eventos: ["Início da prova objetiva da 1° Fase da ONEE!", "Recuperação Paralela de Ciências da Natureza, IC e Projetos e Divulgação Científica"],
+    eventos: ["Início da prova objetiva da 1° Fase da ONEE!", "Recuperação Paralela de Ciências da Natureza, IC e Projetos e Divulgação Científica", "Aulão ONEE, as 13h30!"],
     trabalhos: [],
-    atividades: []
+    atividades: ["Biologia - Resumo sobre sistema excretor"]
   },
 
   "2026-09-22": {
