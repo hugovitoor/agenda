@@ -580,7 +580,7 @@ const agenda = {
   },
 
   "2026-09-29": {
-    eventos: [],
+    eventos: ["Resultados do II Trimestre pós Recuperação Paralela!"],
     trabalhos: ["AV3 de Projeto de Vida"],
     atividades: []
   },
