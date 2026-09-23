@@ -570,19 +570,19 @@ const agenda = {
   "2026-09-25": {
     eventos: ["Última data da prova objetiva da 1° Fase da ONEE!", "Recuperação Paralela de Produção Textual", "Encontro: Cuidar de Quem Cuida"],
     trabalhos: [],
-    atividades: ["PText - Pesquisar 3 repertórios socioculturais para o tema da redação atual"]
+    atividades: ["PText - Pesquisar 3 repertórios socioculturais para 'Consequências do Excesso de Informação Digital no Brasil'", "LP - Lista sobre 'Oração Subordinada Adjetiva'"]
   },
 
   "2026-09-28": {
     eventos: ["Aniversário de Vitor Hugo!"],
-    trabalhos: [],
+    trabalhos: ["Abertura da AV1 de Redação"],
     atividades: []
   },
 
   "2026-09-29": {
     eventos: ["Resultados do II Trimestre pós Recuperação Paralela!"],
     trabalhos: ["AV3 de Projeto de Vida"],
-    atividades: []
+    atividades: ["Geo - Mapa mental sobre 'Movimentos Sociais'", "Geo - Humanas(8), páginas 34 e 39"]
   },
 
   "2026-09-30": {
@@ -591,6 +591,13 @@ const agenda = {
     atividades: []
   },
   //////////// OUTUBRO ////////////
+
+  "2026-10-05": {
+    eventos: [],
+    trabalhos: ["Última data para enviar a AV1 de Redação"],
+    atividades: []
+  },
+
   "2026-10-09": {
     eventos: ["Seminário de Boas Práticas - Sem aula!"],
     trabalhos: [],
