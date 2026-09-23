@@ -564,7 +564,7 @@ const agenda = {
   "2026-09-24": {
     eventos: ["Recuperação Paralela de Linguagens e English For All"],
     trabalhos: [],
-    atividades: ["Artes - Caderno"]
+    atividades: ["Artes - Caderno", "Cul. Di. - IF(4), página 53"]
   },
 
   "2026-09-25": {
@@ -576,7 +576,7 @@ const agenda = {
   "2026-09-28": {
     eventos: ["Aniversário de Vitor Hugo!"],
     trabalhos: ["Abertura da AV1 de Redação"],
-    atividades: []
+    atividades: ["Inglês - Video entrevista com familiar"]
   },
 
   "2026-09-29": {
