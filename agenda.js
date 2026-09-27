@@ -592,6 +592,12 @@ const agenda = {
   },
   //////////// OUTUBRO ////////////
 
+  "2026-10-02": {
+    eventos: [],
+    trabalhos: [],
+    atividades: ["PText - Lista"]
+  },
+
   "2026-10-05": {
     eventos: [],
     trabalhos: ["Última data para enviar a AV1 de Redação"],
