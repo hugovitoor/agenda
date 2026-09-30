@@ -595,7 +595,7 @@ const agenda = {
   "2026-10-02": {
     eventos: [],
     trabalhos: [],
-    atividades: ["PText - Lista"]
+    atividades: ["PText - Lista", "LP - Lista"]
   },
 
   "2026-10-05": {
