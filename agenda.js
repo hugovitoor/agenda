@@ -576,12 +576,12 @@ const agenda = {
   "2026-09-28": {
     eventos: ["Aniversário de Vitor Hugo!"],
     trabalhos: ["Abertura da AV1 de Redação"],
-    atividades: ["Inglês - Video entrevista com familiar"]
+    atividades: []
   },
 
   "2026-09-29": {
     eventos: ["Resultados do II Trimestre pós Recuperação Paralela!"],
-    trabalhos: ["AV3 de Projeto de Vida"],
+    trabalhos: [],
     atividades: ["Geo - Mapa mental sobre 'Movimentos Sociais'", "Geo - Humanas(8), páginas 34 e 39"]
   },
 
@@ -601,7 +601,19 @@ const agenda = {
   "2026-10-05": {
     eventos: [],
     trabalhos: ["Última data para enviar a AV1 de Redação"],
+    atividades: ["Química - Pesquisa sobre 'Princípio de Le Chatelier'", "Inglês - Video entrevista com familiar"]
+  },
+
+  "2026-10-06": {
+    eventos: [],
+    trabalhos: ["AV3 de Projeto de Vida"],
     atividades: []
+  },
+
+  "2026-10-07": {
+    eventos: [],
+    trabalhos: [],
+    atividades: ["Filosofia - Apresentação do candidato político"]
   },
 
   "2026-10-09": {
@@ -612,6 +624,12 @@ const agenda = {
 
   "2026-10-12": {
     eventos: ["Nossa Senhora Aparecida! - Sem aula!"],
+    trabalhos: [],
+    atividades: []
+  },
+
+  "2026-10-14": {
+    eventos: ["Aula prática de Educação Física"],
     trabalhos: [],
     atividades: []
   },
