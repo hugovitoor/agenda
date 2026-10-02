@@ -601,19 +601,25 @@ const agenda = {
   "2026-10-05": {
     eventos: [],
     trabalhos: ["Última data para enviar a AV1 de Redação"],
-    atividades: ["Química - Pesquisa sobre 'Princípio de Le Chatelier'", "Inglês - Video entrevista com familiar"]
+    atividades: ["Química - Pesquisa sobre 'Princípio de Le Chatelier'", "Inglês - Video entrevista com familiar", "Biologia - Caderno", "História - Apresentações dos conteúdos", "História - Caderno"]
   },
 
   "2026-10-06": {
     eventos: [],
     trabalhos: ["AV3 de Projeto de Vida"],
-    atividades: []
+    atividades: ["LP - Linguagens(4), páginas 73 a 75", "LP - Pesquisa sobre Romantismo no Brasil (Marco inicial, contexto histórico, características, regionalismo e gerações com autores, obras e características)"]
   },
 
   "2026-10-07": {
     eventos: [],
     trabalhos: [],
-    atividades: ["Filosofia - Apresentação do candidato político"]
+    atividades: ["Filosofia - Apresentação do candidato político", "Cul. Di. - Caderno"]
+  },
+
+  "2026-10-08": {
+    eventos: [],
+    trabalhos: [],
+    atividades: ["I.C e Projetos - Resumo de no mínimo 15 linhas sobre as páginas 7 a 15", "I.C e Projetos - I.F(4), páginas 9, 11 e 16"]
   },
 
   "2026-10-09": {
@@ -637,6 +643,12 @@ const agenda = {
   "2026-10-15": {
     eventos: ["Dia dos professores! - Sem aula!"],
     trabalhos: [],
+    atividades: []
+  },
+
+  "2026-10-16": {
+    eventos: [],
+    trabalhos: ["PText - N.C(4), páginas 9, 10, 14, 16, 17 e 21"],
     atividades: []
   },
 
