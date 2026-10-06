@@ -637,7 +637,7 @@ const agenda = {
   "2026-10-14": {
     eventos: ["Aula prática de Educação Física"],
     trabalhos: [],
-    atividades: []
+    atividades: ["EngFAll - 5 frases na voz passiva com present perfect", "EngFAll - Entrega parcial do infográfico/mapa mental em equipe sobre voz passiva no present perfect"]
   },
 
   "2026-10-15": {
@@ -667,6 +667,12 @@ const agenda = {
   "2026-10-20": {
       eventos: ["MOSTRA STEAM"],
       trabalhos: [],
+      atividades: []
+    },
+
+    "2026-10-21": {
+      eventos: ["MOSTRA STEAM"],
+      trabalhos: ["EngFAll - Infográfico/Mapa Mental em equipe sobre voz passiva no present perfect"],
       atividades: []
     },
 
