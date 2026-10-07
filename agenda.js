@@ -624,7 +624,7 @@ const agenda = {
 
   "2026-10-09": {
     eventos: ["Seminário de Boas Práticas - Sem aula!"],
-    trabalhos: [],
+    trabalhos: ["Última data de entrega da logotipo do projeto da MOSTRA STEAM"],
     atividades: []
   },
 
@@ -632,6 +632,12 @@ const agenda = {
     eventos: ["Nossa Senhora Aparecida! - Sem aula!"],
     trabalhos: [],
     atividades: []
+  },
+
+  "2026-10-13": {
+    eventos: [],
+    trabalhos: [],
+    atividades: ["LP - Caderno", "Geo - Humanas(8), páginas 64 e 85"]
   },
 
   "2026-10-14": {
@@ -671,7 +677,7 @@ const agenda = {
     },
 
     "2026-10-21": {
-      eventos: ["MOSTRA STEAM"],
+      eventos: [],
       trabalhos: ["EngFAll - Infográfico/Mapa Mental em equipe sobre voz passiva no present perfect"],
       atividades: []
     },
@@ -698,6 +704,12 @@ const agenda = {
   "2026-11-02": {
     eventos: ["Finados - Sem aula!", "Aniversário de Rodrigo!"],
     trabalhos: [],
+    atividades: []
+  },
+
+  "2026-11-05": {
+    eventos: [],
+    trabalhos: ["Júri Simulado - 2° horário!"],
     atividades: []
   },
 
