@@ -643,7 +643,7 @@ const agenda = {
   "2026-10-14": {
     eventos: ["Aula prática de Educação Física"],
     trabalhos: [],
-    atividades: ["EngFAll - 5 frases na voz passiva com present perfect", "EngFAll - Entrega parcial do infográfico/mapa mental em equipe sobre voz passiva no present perfect", "Cul. Di. - Texto Dissertativo Argumentativo de 10 linhas sobre pergunta da página 56", "Cul. Di. - I.F(4), páginas 62 a 64"]
+    atividades: ["EngFAll - 5 frases na voz passiva com p tempo sorteado", "EngFAll - Entrega parcial do infográfico/mapa mental em equipe sobre voz passiva no tempo sorteado", "Cul. Di. - Texto Dissertativo Argumentativo de 10 linhas sobre pergunta da página 56", "Cul. Di. - I.F(4), páginas 62 a 64"]
   },
 
   "2026-10-15": {
@@ -678,7 +678,7 @@ const agenda = {
 
     "2026-10-21": {
       eventos: [],
-      trabalhos: ["EngFAll - Infográfico/Mapa Mental em equipe sobre voz passiva no present perfect"],
+      trabalhos: ["EngFAll - Infográfico/Mapa Mental em equipe sobre voz passiva no tempo sorteado", "EngFAll - NC(4), páginas 37, 39, 41, 42, 45, 49, 51 e 52", "Filosofia - Lista de Exercícios"],
       atividades: []
     },
 
