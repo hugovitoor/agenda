@@ -655,7 +655,7 @@ const agenda = {
   "2026-10-16": {
     eventos: [],
     trabalhos: ["PText - N.C(4), páginas 9, 10, 14, 16, 17 e 21"],
-    atividades: []
+    atividades: ["LP - Caderno"]
   },
 
   "2026-10-17": {
@@ -694,6 +694,12 @@ const agenda = {
     atividades: []
   },
 
+  "2026-10-27": {
+    eventos: [],
+    trabalhos: ["PV - Penúltima data de apresentação da Playlist da Vida"],
+    atividades: ["Geo - Slide"]
+  },
+
   "2026-10-29": {
     eventos: ["Aniversário de Jônatas!", "AVALIA SESI II - Naturezas e Linguagens"],
     trabalhos: [],
@@ -725,6 +731,18 @@ const agenda = {
     atividades: []
   },
 
+  "2026-11-10": {
+    eventos: ["Aniversário de Lucero!"],
+    trabalhos: ["PV - Última data de apresentação da Playlist da Vida"],
+    atividades: []
+  },
+
+  "2026-11-12": {
+    eventos: ["AV3 de Redação - Últimos 2 horários"],
+    trabalhos: [],
+    atividades: []
+  },
+
   "2026-11-16": {
     eventos: ["Semana de AV3 do III Trimestre!"],
     trabalhos: [],
@@ -744,7 +762,7 @@ const agenda = {
   },
 
   "2026-11-19": {
-    eventos: ["Semana de AV3 do III Trimestre!", "Último dia de aula!"],
+    eventos: ["Semana de AV3 do III Trimestre!", "Último dia de entrega da AV3 de Redação", "Último dia de aula!"],
     trabalhos: [],
     atividades: []
   },
