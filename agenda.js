@@ -665,7 +665,7 @@ const agenda = {
   },
 
   "2026-10-19": {
-    eventos: ["MOSTRA STEAM"],
+    eventos: ["AULA NORMAL", "Apresentação do Teatro - MOSTRA STEAM"],
     trabalhos: [],
     atividades: []
   },
