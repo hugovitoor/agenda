@@ -697,7 +697,13 @@ const agenda = {
   "2026-10-27": {
     eventos: [],
     trabalhos: ["PV - Penúltima data de apresentação da Playlist da Vida"],
-    atividades: ["Geo - Slide"]
+    atividades: ["Geo - Slide","LP - Lista de Exercícios com justificativas no caderno"]
+  },
+
+  "2026-10-28": {
+    eventos: [],
+    trabalhos: ["Cul. Di. - Entrega de toda as atividades para pontuação"],
+    atividades: ["Filosofia - Caderno"]
   },
 
   "2026-10-29": {
@@ -719,10 +725,22 @@ const agenda = {
     atividades: []
   },
 
-  "2026-11-05": {
-    eventos: [],
-    trabalhos: ["Júri Simulado - 2° horário!"],
+  "2026-11-02": {
+    eventos: ["Projeto dia 20 - Intervalo Cultural"],
+    trabalhos: [],
     atividades: []
+  },
+
+  "2026-11-05": {
+    eventos: ["Repescagem Avalia SESI II"],
+    trabalhos: ["Júri Simulado - 2° horário!"],
+    atividades: ["Artes - Lista de Exercícios", "Temas Contemporâneos - N.C(4), páginas 76, 80 e 81", "I.C e Projetos - Resumo de no mínimo 15 linhas sobre as páginas 7 a 15", "I.C e Projetos - I.F(4), páginas 9, 11 e 16"]
+  },
+
+  "2026-11-06": {
+    eventos: ["Repescagem Avalia SESI II"],
+    trabalhos: [],
+    atividades: ["PText - Caderno"]
   },
 
   "2026-11-07": {
