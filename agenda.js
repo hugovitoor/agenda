@@ -725,10 +725,16 @@ const agenda = {
     atividades: []
   },
 
-  "2026-11-02": {
-    eventos: ["Projeto dia 20 - Intervalo Cultural"],
+  "2026-11-03": {
+    eventos: ["Projeto dia 20 - Intervalo Cultural", "Debate - Auditório 1° horário"],
     trabalhos: [],
-    atividades: []
+    atividades: ["Geo - Caderno"]
+  },
+
+  "2026-11-04": {
+    eventos: [],
+    trabalhos: [],
+    atividades: ["Filosofia - Caderno em dupla", "Cul. Di. - Caderno", "EngFAll - NC(4), páginas 37, 41, 42 e 51"]
   },
 
   "2026-11-05": {
